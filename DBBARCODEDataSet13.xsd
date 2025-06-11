@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DBBARCODEDataSet13" targetNamespace="http://tempuri.org/DBBARCODEDataSet13.xsd" xmlns:mstns="http://tempuri.org/DBBARCODEDataSet13.xsd" xmlns="http://tempuri.org/DBBARCODEDataSet13.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DBBARCODEConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DBBARCODEConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.PicklistBOM.Properties.Settings.GlobalReference.Default.DBBARCODEConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_SelectCellTableAdapter" GeneratorDataComponentClassName="View_SelectCellTableAdapter" Name="View_SelectCell" UserDataComponentName="View_SelectCellTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBBARCODEConnectionString (Settings)" DbObjectName="DBBARCODE.dbo.View_SelectCell" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        Cell
+FROM            View_SelectCell
+ORDER BY Cell</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Cell" DataSetColumn="Cell" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="DBBARCODEConnectionString (Settings)" DbObjectName="DBBARCODE.dbo.View_SelectCell" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillBy" GenerateMethods="Fill" GenerateShortCommands="true" GeneratorSourceName="FillBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="FillBy">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Cell FROM View_SelectCell ORDER BY Cell</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DBBARCODEDataSet13" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DBBARCODEDataSet13" msprop:Generator_UserDSName="DBBARCODEDataSet13">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_SelectCell" msprop:Generator_TableClassName="View_SelectCellDataTable" msprop:Generator_TableVarName="tableView_SelectCell" msprop:Generator_TablePropName="View_SelectCell" msprop:Generator_RowDeletingName="View_SelectCellRowDeleting" msprop:Generator_RowChangingName="View_SelectCellRowChanging" msprop:Generator_RowEvHandlerName="View_SelectCellRowChangeEventHandler" msprop:Generator_RowDeletedName="View_SelectCellRowDeleted" msprop:Generator_UserTableName="View_SelectCell" msprop:Generator_RowChangedName="View_SelectCellRowChanged" msprop:Generator_RowEvArgName="View_SelectCellRowChangeEvent" msprop:Generator_RowClassName="View_SelectCellRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Cell" msprop:Generator_ColumnVarNameInTable="columnCell" msprop:Generator_ColumnPropNameInRow="Cell" msprop:Generator_ColumnPropNameInTable="CellColumn" msprop:Generator_UserColumnName="Cell" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

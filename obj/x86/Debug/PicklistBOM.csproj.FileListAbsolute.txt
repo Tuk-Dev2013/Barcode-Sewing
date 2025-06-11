@@ -1,0 +1,1115 @@
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\bin\Debug\PicklistBOM.exe.config
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\bin\Debug\PicklistBOM.exe
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BIN.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinDefault.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinToAccpac.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmBatch.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinAll.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinRec.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BIN.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BinAll.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBarcode.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBatch.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ShowNo.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Barcode.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.BarcodeWip.BarcodeW3.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmBom.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FG.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmLogin.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.txtPOSearch1.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmMeessage.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmPicModel.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmShowTarget.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTodayTarget.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTotalbarcode.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Main.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReport.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportDate.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportMessage.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModel.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModelDate.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell0.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell1.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell2.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell3.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmMain1.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FullCell.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.AdminAllCell.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor1024.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherMoniter.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherSeting.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingMonitor.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingWeek.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSeting.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmShowMonitor.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW3.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW4.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW5.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW6.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.PictureModel.bntpic1.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPoly.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPolyCell.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmShowLineProduct.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmTotalT.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.LineProduct.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Properties.Resources.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.RateAccount.FrmRate.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Receipt2Bin.FrmRecipt2Bin.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.FrmModel.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.ViewModel.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCellD.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCell.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShow2Bin.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedulePoly.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmSchedule.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedule.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.ReportSentwork.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.SentWork.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.ShowM2Bin.FrmShow2Bin.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.StandardTime.Standardtime.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.StoreOut.FrmStoreOut.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.SumCell.frmSum.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.exe.licenses
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.exe
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.pdb
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\bin\Debug\PicklistBOM.pdb
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.FrmMainDelete.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.frmEditPO1.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmLoadProduction.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTeam.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.StorePowerWip.FrmMainPowerwip.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReceive2Bin.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmShowDetail2Bin.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.View2BinIssue.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmStdtime.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmstdAdd.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmEditStdTime.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmOT.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.FrmJinnyCode.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.Frmjinnyreport.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.AddCellDate.Addcelldate.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.csprojResolveAssemblyReference.cache
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.csproj.GenerateResource.Cache
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.Form1.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCellShowMonitor.resources
+D:\LaZboy\Program Picklist BOM\Picklist\PicklistBOM\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FrmInterfaceFG.resources
+D:\Project Sewning\PicklistBOM\bin\Debug\PicklistBOM.exe.config
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.exe
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.pdb
+D:\Project Sewning\PicklistBOM\bin\Debug\PicklistBOM.exe
+D:\Project Sewning\PicklistBOM\bin\Debug\PicklistBOM.pdb
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BIN.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinDefault.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinToAccpac.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmBatch.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReceive2Bin.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinAll.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinRec.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmShowDetail2Bin.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BIN.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BinAll.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBarcode.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBatch.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ShowNo.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.View2BinIssue.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.AddCellDate.Addcelldate.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Barcode.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.BarcodeWip.BarcodeW3.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmBom.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmLoadProduction.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.frmEditPO1.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.FrmMainDelete.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FG.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FrmInterfaceFG.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmLogin.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.txtPOSearch1.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmMeessage.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmPicModel.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmShowTarget.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTeam.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTodayTarget.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTotalbarcode.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.FrmJinnyCode.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.Frmjinnyreport.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Main.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReport.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportDate.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportMessage.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModel.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModelDate.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.Form1.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell0.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell1.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell2.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell3.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCellShowMonitor.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmMain1.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FullCell.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.AdminAllCell.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor1024.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherMoniter.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherSeting.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingMonitor.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingWeek.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSeting.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmShowMonitor.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW3.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW4.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW5.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW6.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.PictureModel.bntpic1.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPoly.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPolyCell.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmShowLineProduct.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmTotalT.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.LineProduct.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Properties.Resources.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.RateAccount.FrmRate.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Receipt2Bin.FrmRecipt2Bin.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.FrmModel.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.ViewModel.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCellD.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCell.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShow2Bin.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedulePoly.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmSchedule.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedule.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.ReportSentwork.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.SentWork.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.ShowM2Bin.FrmShow2Bin.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmEditStdTime.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmOT.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmstdAdd.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmStdtime.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.StoreOut.FrmStoreOut.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.StorePowerWip.FrmMainPowerwip.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.SumCell.frmSum.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.csproj.GenerateResource.Cache
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.exe.licenses
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnAdmin.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewTarget.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewingBarcode.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnShowTarget.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.Showmonitor.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmDeleteSewing.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.frmoperator.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS1.resources
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.csprojResolveAssemblyReference.cache
+D:\Project Sewning\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmShowCutSewing.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\bin\Debug\PicklistBOM.exe.config
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.exe
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.pdb
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\bin\Debug\PicklistBOM.exe
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\bin\Debug\PicklistBOM.pdb
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.csprojResolveAssemblyReference.cache
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BIN.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinDefault.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinToAccpac.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmBatch.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReceive2Bin.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinAll.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinRec.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmShowDetail2Bin.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BIN.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BinAll.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBarcode.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBatch.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ShowNo.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.View2BinIssue.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.AddCellDate.Addcelldate.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Barcode.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.BarcodeWip.BarcodeW3.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmBom.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmLoadProduction.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.frmEditPO1.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.FrmMainDelete.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FG.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FrmInterfaceFG.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmLogin.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.txtPOSearch1.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmMeessage.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmPicModel.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmShowTarget.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTeam.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTodayTarget.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTotalbarcode.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.FrmJinnyCode.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.Frmjinnyreport.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Main.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReport.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportDate.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportMessage.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModel.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModelDate.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.Form1.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell0.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell1.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell2.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell3.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCellShowMonitor.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmMain1.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FullCell.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.AdminAllCell.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor1024.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherMoniter.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherSeting.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingMonitor.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingWeek.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSeting.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmShowMonitor.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW3.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW4.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW5.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW6.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.PictureModel.bntpic1.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPoly.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPolyCell.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmShowLineProduct.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmTotalT.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.LineProduct.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Properties.Resources.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.RateAccount.FrmRate.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Receipt2Bin.FrmRecipt2Bin.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.FrmModel.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.ViewModel.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCellD.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCell.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShow2Bin.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedulePoly.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmSchedule.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedule.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.ReportSentwork.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.SentWork.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS1.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmDeleteSewing.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.frmoperator.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewingBarcode.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnAdmin.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnShowTarget.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewTarget.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmShowCutSewing.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.Showmonitor.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.ShowM2Bin.FrmShow2Bin.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmEditStdTime.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmOT.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmstdAdd.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmStdtime.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.StoreOut.FrmStoreOut.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.StorePowerWip.FrmMainPowerwip.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.SumCell.frmSum.resources
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.csproj.GenerateResource.Cache
+D:\Develop Program 2019\Sewing Barcode\PicklistBOM\obj\x86\Debug\PicklistBOM.exe.licenses
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\bin\Debug\PicklistBOM.exe.config
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.exe
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.pdb
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\bin\Debug\PicklistBOM.exe
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\bin\Debug\PicklistBOM.pdb
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.csprojResolveAssemblyReference.cache
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BIN.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinDefault.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinToAccpac.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmBatch.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReceive2Bin.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinAll.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinRec.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmShowDetail2Bin.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BIN.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BinAll.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBarcode.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBatch.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ShowNo.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.View2BinIssue.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.AddCellDate.Addcelldate.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Barcode.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.BarcodeWip.BarcodeW3.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmBom.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmLoadProduction.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.frmEditPO1.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.FrmMainDelete.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FG.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FrmInterfaceFG.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmLogin.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.txtPOSearch1.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmMeessage.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmPicModel.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmShowTarget.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTeam.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTodayTarget.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTotalbarcode.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.FrmJinnyCode.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.Frmjinnyreport.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Main.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReport.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportDate.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportMessage.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModel.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModelDate.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.Form1.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell0.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell1.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell2.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell3.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCellShowMonitor.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmMain1.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FullCell.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.AdminAllCell.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor1024.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherMoniter.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherSeting.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingMonitor.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingWeek.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSeting.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmShowMonitor.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW3.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW4.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW5.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW6.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.PictureModel.bntpic1.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPoly.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPolyCell.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmShowLineProduct.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmTotalT.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.LineProduct.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Properties.Resources.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.RateAccount.FrmRate.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Receipt2Bin.FrmRecipt2Bin.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.FrmModel.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.ViewModel.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCellD.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCell.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShow2Bin.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedulePoly.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmSchedule.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedule.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.ReportSentwork.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.SentWork.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS1.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmDeleteSewing.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.frmoperator.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewingBarcode.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnAdmin.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnShowTarget.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewTarget.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmShowCutSewing.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.Showmonitor.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ShowM2Bin.FrmShow2Bin.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmEditStdTime.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmOT.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmstdAdd.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmStdtime.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.StoreOut.FrmStoreOut.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.StorePowerWip.FrmMainPowerwip.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.SumCell.frmSum.resources
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.csproj.GenerateResource.Cache
+D:\Develop Program 2019\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.exe.licenses
+D:\Develop Program 2020\Sewing Barcode\Sewing Barcode New\PicklistBOM\bin\Debug\PicklistBOM.exe.config
+D:\Develop Program 2020\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.exe
+D:\Develop Program 2020\Sewing Barcode\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.pdb
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\bin\Debug\PicklistBOM.exe.config
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.exe
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.pdb
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\bin\Debug\PicklistBOM.exe
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\bin\Debug\PicklistBOM.pdb
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.csprojResolveAssemblyReference.cache
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BIN.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinDefault.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinToAccpac.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmBatch.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReceive2Bin.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinAll.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinRec.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmShowDetail2Bin.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BIN.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BinAll.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBarcode.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBatch.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ShowNo.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.View2BinIssue.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.AddCellDate.Addcelldate.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Barcode.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.BarcodeWip.BarcodeW3.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmBom.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmLoadProduction.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.frmEditPO1.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.FrmMainDelete.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FG.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FrmInterfaceFG.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmLogin.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.txtPOSearch1.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmMeessage.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmPicModel.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmShowTarget.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTeam.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTodayTarget.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTotalbarcode.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.FrmJinnyCode.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.Frmjinnyreport.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Main.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReport.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportDate.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportMessage.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModel.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModelDate.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.Form1.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell0.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell1.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell2.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell3.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCellShowMonitor.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmMain1.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FullCell.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.AdminAllCell.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor1024.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherMoniter.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherSeting.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingMonitor.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingWeek.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSeting.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmShowMonitor.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW3.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW4.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW5.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW6.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.PictureModel.bntpic1.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPoly.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPolyCell.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmShowLineProduct.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmTotalT.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.LineProduct.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Properties.Resources.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.RateAccount.FrmRate.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Receipt2Bin.FrmRecipt2Bin.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.FrmModel.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.ViewModel.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCellD.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCell.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShow2Bin.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedulePoly.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmSchedule.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedule.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.ReportSentwork.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.SentWork.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS1.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmDeleteSewing.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.frmoperator.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewingBarcode.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnAdmin.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnShowTarget.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewTarget.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmShowCutSewing.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.Showmonitor.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.ShowM2Bin.FrmShow2Bin.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmEditStdTime.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmOT.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmstdAdd.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmStdtime.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.StoreOut.FrmStoreOut.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.StorePowerWip.FrmMainPowerwip.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.SumCell.frmSum.resources
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.csproj.GenerateResource.Cache
+E:\Develop Program 2021\Program Barcode Sewing\Sewing Barcode New\PicklistBOM\obj\x86\Debug\PicklistBOM.exe.licenses
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\bin\Debug\PicklistBOM.exe.config
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.exe
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.pdb
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\bin\Debug\PicklistBOM.exe
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\bin\Debug\PicklistBOM.pdb
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BIN.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinDefault.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinToAccpac.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmBatch.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReceive2Bin.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinAll.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinRec.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmShowDetail2Bin.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BIN.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BinAll.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBarcode.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBatch.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ShowNo.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.View2BinIssue.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.AddCellDate.Addcelldate.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Barcode.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.BarcodeWip.BarcodeW3.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmBom.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmLoadProduction.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.frmEditPO1.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.FrmMainDelete.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FG.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FrmInterfaceFG.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmLogin.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.txtPOSearch1.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmMeessage.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmPicModel.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmShowTarget.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTeam.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTodayTarget.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTotalbarcode.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.FrmJinnyCode.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.Frmjinnyreport.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Main.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReport.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportDate.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportMessage.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModel.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModelDate.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.Form1.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell0.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell1.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell2.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell3.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCellShowMonitor.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmMain1.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FullCell.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.AdminAllCell.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor1024.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherMoniter.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherSeting.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingMonitor.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingWeek.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSeting.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmShowMonitor.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW3.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW4.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW5.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW6.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PictureModel.bntpic1.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPoly.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPolyCell.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmShowLineProduct.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmTotalT.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.LineProduct.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Properties.Resources.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.RateAccount.FrmRate.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Receipt2Bin.FrmRecipt2Bin.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.FrmModel.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.ViewModel.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCellD.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCell.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShow2Bin.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedulePoly.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmSchedule.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedule.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.ReportSentwork.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.SentWork.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS1.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmDeleteSewing.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.frmoperator.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewingBarcode.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnAdmin.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnShowTarget.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewTarget.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmShowCutSewing.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.Showmonitor.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ShowM2Bin.FrmShow2Bin.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmEditStdTime.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmOT.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmstdAdd.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmStdtime.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.StoreOut.FrmStoreOut.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.StorePowerWip.FrmMainPowerwip.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.SumCell.frmSum.resources
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.csproj.GenerateResource.Cache
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.exe.licenses
+E:\Develop Program 2024\Program Barcode Sewing Cell\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.csprojResolveAssemblyReference.cache
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\PicklistBOM.exe.config
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.exe
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.pdb
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BIN.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinDefault.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinToAccpac.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmBatch.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReceive2Bin.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinAll.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinRec.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmShowDetail2Bin.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BIN.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BinAll.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBarcode.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBatch.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ShowNo.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.View2BinIssue.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.AddCellDate.Addcelldate.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Barcode.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.BarcodeWip.BarcodeW3.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmBom.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmLoadProduction.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.frmEditPO1.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.FrmMainDelete.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FG.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FrmInterfaceFG.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmLogin.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.txtPOSearch1.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmMeessage.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmPicModel.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmShowTarget.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTeam.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTodayTarget.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTotalbarcode.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.FrmJinnyCode.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.Frmjinnyreport.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Main.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReport.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportDate.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportMessage.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModel.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModelDate.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.Form1.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell0.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell1.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell2.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell3.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCellShowMonitor.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmMain1.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FullCell.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.AdminAllCell.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor1024.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherMoniter.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherSeting.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingMonitor.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingWeek.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSeting.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmShowMonitor.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW3.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW4.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW5.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW6.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PictureModel.bntpic1.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPoly.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPolyCell.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmShowLineProduct.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmTotalT.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.LineProduct.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Properties.Resources.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.RateAccount.FrmRate.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Receipt2Bin.FrmRecipt2Bin.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.FrmModel.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.ViewModel.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCellD.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCell.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShow2Bin.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedulePoly.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmSchedule.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedule.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.ReportSentwork.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.SentWork.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS1.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmDeleteSewing.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.frmoperator.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewingBarcode.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnAdmin.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnShowTarget.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewTarget.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmShowCutSewing.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.Showmonitor.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ShowM2Bin.FrmShow2Bin.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmEditStdTime.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmOT.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmstdAdd.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmStdtime.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.StoreOut.FrmStoreOut.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.StorePowerWip.FrmMainPowerwip.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.SumCell.frmSum.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.csproj.GenerateResource.Cache
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.exe.licenses
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\PicklistBOM.exe
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\PicklistBOM.pdb
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Data.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.Win.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.Xpo.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Office.v14.2.Core.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Persistent.Base.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.PivotGrid.v14.2.Core.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Utils.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Xpo.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraBars.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraNavBar.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraPivotGrid.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraRichEdit.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraTreeList.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraVerticalGrid.v14.2.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\FlashControlV71.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.CSharp.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.VisualBasic.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Configuration.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Data.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Data.Linq.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Deployment.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Drawing.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Web.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Web.Services.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Windows.Forms.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Xml.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Xml.Linq.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Data.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.Xpo.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.Win.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Persistent.Base.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.PivotGrid.v14.2.Core.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Office.v14.2.Core.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Utils.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Xpo.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraBars.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraNavBar.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraPivotGrid.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraRichEdit.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraTreeList.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraVerticalGrid.v14.2.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.ExpressApp.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.ExpressApp.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.ExpressApp.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.ExpressApp.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.ExpressApp.Win.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.ExpressApp.Win.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.ExpressApp.Win.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.ExpressApp.Win.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.PivotGrid.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.PivotGrid.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.PivotGrid.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.PivotGrid.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.Xpo.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.Xpo.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.Xpo.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.Xpo.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraPivotGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraPivotGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraPivotGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraPivotGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraTreeList.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraTreeList.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraTreeList.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraTreeList.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.MassgeBox.resources
+D:\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.csprojResolveAssemblyReference.cache
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\PicklistBOM.exe.config
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.exe
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.pdb
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\PicklistBOM.exe
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\PicklistBOM.pdb
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\CrystalDecisions.Shared.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Data.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.Win.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.Xpo.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Office.v14.2.Core.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Persistent.Base.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.PivotGrid.v14.2.Core.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Utils.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Xpo.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraBars.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraNavBar.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraPivotGrid.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraRichEdit.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraTreeList.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraVerticalGrid.v14.2.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\FlashControlV71.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.CSharp.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.VisualBasic.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Configuration.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Data.DataSetExtensions.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Data.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Data.Linq.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Deployment.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Drawing.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Web.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Web.Services.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Windows.Forms.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Xml.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\System.Xml.Linq.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Data.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.Xpo.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.ExpressApp.Win.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Persistent.Base.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.PivotGrid.v14.2.Core.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Office.v14.2.Core.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Utils.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.Xpo.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraBars.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraNavBar.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraPivotGrid.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraRichEdit.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraTreeList.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\DevExpress.XtraVerticalGrid.v14.2.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.ExpressApp.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.ExpressApp.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.ExpressApp.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.ExpressApp.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.ExpressApp.Win.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.ExpressApp.Win.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.ExpressApp.Win.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.ExpressApp.Win.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.PivotGrid.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.PivotGrid.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.PivotGrid.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.PivotGrid.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.Xpo.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.Xpo.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.Xpo.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.Xpo.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraNavBar.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraPivotGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraPivotGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraPivotGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraPivotGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraTreeList.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraTreeList.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraTreeList.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraTreeList.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\de\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\es\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ja\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\bin\Debug\ru\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BIN.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinDefault.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Frm2BinToAccpac.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmBatch.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReceive2Bin.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinAll.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmReport2BinRec.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.FrmShowDetail2Bin.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BIN.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.Report2BinAll.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBarcode.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ReportBatch.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.ShowNo.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM._2Bin.View2BinIssue.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.AddCellDate.Addcelldate.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Barcode.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.BarcodeWip.BarcodeW3.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmBom.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.BomCostAccount.FrmLoadProduction.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.frmEditPO1.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.DeletePOCell.FrmMainDelete.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FG.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FG.FrmInterfaceFG.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmLogin.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.txtPOSearch1.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmMeessage.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmPicModel.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmShowTarget.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTeam.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTodayTarget.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.FrmTotalbarcode.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.FrmJinnyCode.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.JinnyBOM.Frmjinnyreport.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Main.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReport.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportDate.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportMessage.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModel.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MainReportModelDate.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.Form1.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell0.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell1.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell2.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCell3.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmCellShowMonitor.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FrmMain1.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorCell.FullCell.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.AdminAllCell.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor1024.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmCellMonitor.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherMoniter.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmLeatherSeting.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingMonitor.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSawingWeek.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmSeting.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.MonitorLine.FrmShowMonitor.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW3.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW4.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW5.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PicklistW6.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.PictureModel.bntpic1.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPoly.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Poly.FrmPolyCell.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmShowLineProduct.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.FrmTotalT.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Production.LineProduct.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Properties.Resources.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.RateAccount.FrmRate.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Receipt2Bin.FrmRecipt2Bin.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.FrmModel.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ReportModel.ViewModel.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCellD.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmScheduleCell.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShow2Bin.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedulePoly.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmSchedule.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ScheduleCell.FrmShowSchedule.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.ReportSentwork.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sentwork.SentWork.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmBarcodeLFS1.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmDeleteSewing.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.frmoperator.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewingBarcode.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnAdmin.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewnShowTarget.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmSewTarget.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.FrmShowCutSewing.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.MassgeBox.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Sewing.Showmonitor.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.ShowM2Bin.FrmShow2Bin.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmEditStdTime.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmOT.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmstdAdd.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.Stdtime.FrmStdtime.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.StoreOut.FrmStoreOut.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.StorePowerWip.FrmMainPowerwip.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.SumCell.frmSum.resources
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.csproj.GenerateResource.Cache
+D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.exe.licenses

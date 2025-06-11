@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DBBARCODEDataSet2" targetNamespace="http://tempuri.org/DBBARCODEDataSet2.xsd" xmlns:mstns="http://tempuri.org/DBBARCODEDataSet2.xsd" xmlns="http://tempuri.org/DBBARCODEDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DBBARCODEConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DBBARCODEConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.PicklistBOM.Properties.Settings.GlobalReference.Default.DBBARCODEConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_POMOTableAdapter" GeneratorDataComponentClassName="View_POMOTableAdapter" Name="View_POMO" UserDataComponentName="View_POMOTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBBARCODEConnectionString (Settings)" DbObjectName="DBBARCODE.dbo.View_POMO" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT DocNo, DocDate FROM dbo.View_POMO</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="DocNo" DataSetColumn="DocNo" />
+              <Mapping SourceColumn="DocDate" DataSetColumn="DocDate" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DBBARCODEDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DBBARCODEDataSet2" msprop:Generator_UserDSName="DBBARCODEDataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_POMO" msprop:Generator_TableClassName="View_POMODataTable" msprop:Generator_TableVarName="tableView_POMO" msprop:Generator_TablePropName="View_POMO" msprop:Generator_RowDeletingName="View_POMORowDeleting" msprop:Generator_RowChangingName="View_POMORowChanging" msprop:Generator_RowEvHandlerName="View_POMORowChangeEventHandler" msprop:Generator_RowDeletedName="View_POMORowDeleted" msprop:Generator_UserTableName="View_POMO" msprop:Generator_RowChangedName="View_POMORowChanged" msprop:Generator_RowEvArgName="View_POMORowChangeEvent" msprop:Generator_RowClassName="View_POMORow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocNo" msprop:Generator_ColumnVarNameInTable="columnDocNo" msprop:Generator_ColumnPropNameInRow="DocNo" msprop:Generator_ColumnPropNameInTable="DocNoColumn" msprop:Generator_UserColumnName="DocNo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DocDate" msprop:Generator_ColumnVarNameInTable="columnDocDate" msprop:Generator_ColumnPropNameInRow="DocDate" msprop:Generator_ColumnPropNameInTable="DocDateColumn" msprop:Generator_UserColumnName="DocDate" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

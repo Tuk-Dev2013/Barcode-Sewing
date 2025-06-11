@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DBBARCODEDataSet" targetNamespace="http://tempuri.org/DBBARCODEDataSet.xsd" xmlns:mstns="http://tempuri.org/DBBARCODEDataSet.xsd" xmlns="http://tempuri.org/DBBARCODEDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DBBARCODEConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DBBARCODEConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.PicklistBOM.Properties.Settings.GlobalReference.Default.DBBARCODEConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_DocOrderTableAdapter" GeneratorDataComponentClassName="View_DocOrderTableAdapter" Name="View_DocOrder" UserDataComponentName="View_DocOrderTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBBARCODEConnectionString (Settings)" DbObjectName="DBBARCODE.dbo.View_DocOrder" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT DocRefNo FROM dbo.View_DocOrder</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="DocRefNo" DataSetColumn="DocRefNo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DBBARCODEDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DBBARCODEDataSet" msprop:Generator_UserDSName="DBBARCODEDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_DocOrder" msprop:Generator_TableClassName="View_DocOrderDataTable" msprop:Generator_TableVarName="tableView_DocOrder" msprop:Generator_TablePropName="View_DocOrder" msprop:Generator_RowDeletingName="View_DocOrderRowDeleting" msprop:Generator_RowChangingName="View_DocOrderRowChanging" msprop:Generator_RowEvHandlerName="View_DocOrderRowChangeEventHandler" msprop:Generator_RowDeletedName="View_DocOrderRowDeleted" msprop:Generator_UserTableName="View_DocOrder" msprop:Generator_RowChangedName="View_DocOrderRowChanged" msprop:Generator_RowEvArgName="View_DocOrderRowChangeEvent" msprop:Generator_RowClassName="View_DocOrderRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocRefNo" msprop:Generator_ColumnVarNameInTable="columnDocRefNo" msprop:Generator_ColumnPropNameInRow="DocRefNo" msprop:Generator_ColumnPropNameInTable="DocRefNoColumn" msprop:Generator_UserColumnName="DocRefNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

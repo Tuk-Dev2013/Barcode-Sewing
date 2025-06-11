@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<configuration>
+  <configSections>
+    <!--<sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+			</sectionGroup>-->
+  </configSections>
+  <connectionStrings>
+    <add name="DBLeanBarcode" connectionString="Data Source=192.168.1.4;Initial Catalog=BK_DBBARCODE;Persist Security Info=True;User ID=sa;Password="
+      providerName="System.Data.SqlClient" />
+    <add name="DBBarcode" connectionString="Data Source=192.168.1.4;Initial Catalog=BK_DBBARCODE;Persist Security Info=True;User ID=sa;Password="
+      providerName="System.Data.SqlClient" />
+    <add name="PicklistBOM.Properties.Settings.DBBARCODEConnectionString"
+      connectionString="Data Source=192.168.1.4;Initial Catalog=BK_DBBARCODE;User ID=sa"
+      providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <appSettings>
+    <add key="ServerName" value="192.168.1.4"/>
+    <add key="DatabaseName" value="BK_DBBARCODE"/>
+    <add key="Password" value=""/>
+    <add key="UserID" value="sa"/>
+    <add key="ClientSettingsProvider.ServiceUri" value=""/>
+    <add key="Wip" value="CELL"/>
+    <add key="GenAotoNumber" value="C1403/"/>
+    <add key="SHOW_SCREEN" value="1"/>
+  </appSettings>
+   <startup useLegacyV2RuntimeActivationPolicy="true">
+     <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0" />    
+  </startup>
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri=""/>
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400"/>
+      </providers>
+    </roleManager>
+  </system.web>
+</configuration>
