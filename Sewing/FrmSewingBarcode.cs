@@ -58,13 +58,21 @@ namespace PicklistBOM.Sewing
             CGlobal.EmpPost = "System";
 
             //date
-               string resultdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
-              string resultMM = DateTime.Now.ToString("HH", new System.Globalization.CultureInfo("en-US"));
-                if ((Convert.ToDouble(resultMM) >= 0) && (Convert.ToDouble(resultMM) <= 8))
+               string resultdate;
+
+                DateTime now0027 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
+                TimeSpan start0027 = new TimeSpan(0, 0, 0); // 00:00
+                TimeSpan end0027 = new TimeSpan(7, 59, 0);   // 07:59
+                TimeSpan currentTime0027 = now0027.TimeOfDay;
+                if (currentTime0027 >= start0027 && currentTime0027 <= end0027)
                 {
-                    //กะกลางคืน
                     resultdate = DateTime.Now.AddDays(-1).ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
                 }
+                else
+                {
+                    resultdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+                }
+               
                 lbldate.Text = "Date : " +resultdate;
 
     
@@ -555,11 +563,16 @@ namespace PicklistBOM.Sewing
                 try
                 {
                     //กะกลางวัน และ กลางคืน
+
+                DateTime now0028 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
+                TimeSpan start0028 = new TimeSpan(0, 0, 0); // 00:00
+                TimeSpan end0028 = new TimeSpan(7, 59, 0);   // 07:59
+                TimeSpan currentTime0028 = now0028.TimeOfDay;
+             
+
                     string resultdate = DateTime.Now.AddDays(-1).ToString("yyyy-MM-dd", new System.Globalization.CultureInfo("en-US")) + " 23:59:00.000";
                     string resultdate1 = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
                     string resultdate2 = DateTime.Now.AddDays(-1).ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
-                    string resultMM = DateTime.Now.ToString("HH", new System.Globalization.CultureInfo("en-US"));
-
                   //  string resultdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
                    // string resultdate1 = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss", new System.Globalization.CultureInfo("en-US"));
                     db.AddParameter("@DocNo", CGlobal.Sew_DocNo);
@@ -572,7 +585,7 @@ namespace PicklistBOM.Sewing
                     db.AddParameter("@TypeCell", CGlobal.Sew_CellckName.Trim());
                     db.AddParameter("@Itemmodel", CGlobal.Sew_itemModelNew + tmpNew);
 
-                    if ((Convert.ToDouble(resultMM) >= 0) && (Convert.ToDouble(resultMM) <= 8))
+                    if (currentTime0028 >= start0028 && currentTime0028 <= end0028)
                     {
                         db.AddParameter("@Sdate", resultdate2);
                         db.AddParameter("@Barcodedate", resultdate);
@@ -611,17 +624,26 @@ namespace PicklistBOM.Sewing
         #region " Show Cell 1"
         private void showBarcode(string docno)
         {
-            string resultdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+            string resultdate;
             this.gridshow.DataSource = null;
             SqlConnection conn = new SqlConnection(WebConfig.GetconnectionLeanBarcode());
             conn.Open();
             try
             {
-                string resultMM = DateTime.Now.ToString("HH", new System.Globalization.CultureInfo("en-US"));
-                if ((Convert.ToDouble(resultMM) >= 0) && (Convert.ToDouble(resultMM) <= 8))
+                DateTime now0029 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
+                TimeSpan start0029 = new TimeSpan(0, 0, 0); // 00:00
+                TimeSpan end0029 = new TimeSpan(07, 59, 0);   // 07:59
+                TimeSpan currentTime0029 = now0029.TimeOfDay;
+
+
+                if (currentTime0029 >= start0029 && currentTime0029 <= end0029)
                 {
                     //กะกลางคืน
                     resultdate = DateTime.Now.AddDays(-1).ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+                }
+                else
+                {
+                    resultdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
                 }
 
                 string strSQL1 = "";
@@ -662,16 +684,28 @@ namespace PicklistBOM.Sewing
         #region " Show Cell 2"
         private void showBarcode2(string docno)
         {
-            string resultdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+
+
+
+            string resultdate;
+            DateTime now0030 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
+            TimeSpan start0030 = new TimeSpan(0, 0, 0); // 00:00
+            TimeSpan end0030 = new TimeSpan(07, 59, 0);   // 07:59
+            TimeSpan currentTime0030 = now0030.TimeOfDay;
+
             this.gridshow2.DataSource = null;
             SqlConnection conn = new SqlConnection(WebConfig.GetconnectionLeanBarcode());
             conn.Open();
             try
             {
                 string resultMM = DateTime.Now.ToString("HH", new System.Globalization.CultureInfo("en-US"));
-                if ((Convert.ToDouble(resultMM) >= 0) && (Convert.ToDouble(resultMM) <= 8))
+                if (currentTime0030 >= start0030 && currentTime0030 <= end0030)
                 {
                     resultdate = DateTime.Now.AddDays(-1).ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+                }
+                else
+                {
+                    resultdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
                 }
 
                 string strSQL1 = "";
@@ -909,17 +943,20 @@ namespace PicklistBOM.Sewing
             try
             {
                 string sdateFormatted;
-                DateTime now = DateTime.Now;
-                int currentHour = now.Hour;
-
-                if (currentHour >= 0 && currentHour <= 8)
+                DateTime now0026 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
+                TimeSpan start0026 = new TimeSpan(0, 0, 0); // 00:00
+                TimeSpan end0026 = new TimeSpan(7, 59, 0);   // 07:59
+                TimeSpan currentTime0026 = now0026.TimeOfDay;
+                if (currentTime0026 >= start0026 && currentTime0026 <= end0026)
                 {
-                    sdateFormatted = now.AddDays(-1).ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+                    sdateFormatted = now0026.AddDays(-1).ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
                 }
                 else
                 {
-                    sdateFormatted = now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+                    sdateFormatted = now0026.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
                 }
+
+               
 
 
                 //MessageBox.Show(sdateFormatted + CGlobal.Sew_CellckName);
@@ -1071,12 +1108,20 @@ namespace PicklistBOM.Sewing
 
                           //update target output
 
-                          string tmpdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+                          DateTime now0025 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
+                          TimeSpan start0025= new TimeSpan(0, 0, 0); // 00:00
+                          TimeSpan end0025 = new TimeSpan(7, 59, 0);   // 20:30
+                          TimeSpan currentTime0025 = now0025.TimeOfDay;
 
-                          string resultMM = DateTime.Now.ToString("HH", new System.Globalization.CultureInfo("en-US"));
-                          if ((Convert.ToDouble(resultMM) >= 0) && (Convert.ToDouble(resultMM) <= 8))
+                          string tmpdate;
+
+                          if (currentTime0025 >= start0025 && currentTime0025 <= end0025)
                           {
                               tmpdate = DateTime.Now.AddDays(-1).ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+                          }
+                          else 
+                          {
+                              tmpdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
                           }
 
                           UpdateOutput(tmpdate);
