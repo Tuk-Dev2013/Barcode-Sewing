@@ -1113,4 +1113,3 @@ D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.StorePowerWi
 D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.SumCell.frmSum.resources
 D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.csproj.GenerateResource.Cache
 D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.exe.licenses
-D:\6.PD\Sewing Barcode Center\PicklistBOM\obj\x86\Debug\PicklistBOM.csprojResolveAssemblyReference.cache

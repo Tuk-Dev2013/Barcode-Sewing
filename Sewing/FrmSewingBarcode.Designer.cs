@@ -1561,7 +1561,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmSewingBarcode";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Cell Sewing V-11062025";
+            this.Text = "Cell Sewing V-12062025 V.1.0";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.FrmSewingBarcode_Load);
             this.menuStrip1.ResumeLayout(false);

@@ -30,7 +30,7 @@ namespace PicklistBOM.Sewing
         {
             DateTime now555 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
             TimeSpan start555 = new TimeSpan(0, 0, 0); // 00:00
-            TimeSpan end555 = new TimeSpan(8, 0, 0);   // 07:30
+            TimeSpan end555 = new TimeSpan(7, 59, 0);   // 07:30
             TimeSpan currentTime555 = now555.TimeOfDay;
             //กะเช้า 7.30 - 20.30
             string tmpdate;
@@ -292,7 +292,7 @@ namespace PicklistBOM.Sewing
             TimeSpan end_005 = new TimeSpan(5, 0, 0);   // 05:00
 
             TimeSpan start_0005 = new TimeSpan(5, 0, 0); // 05:00
-            TimeSpan end_0005 = new TimeSpan(8, 0, 0);   // 08:00
+            TimeSpan end_0005 = new TimeSpan(7, 59, 0);   // 08:00
 
             TimeSpan currentTime_05 = now_05.TimeOfDay;
             //กะดึก 20.30-0.0.0
@@ -326,7 +326,7 @@ namespace PicklistBOM.Sewing
                     txtMan_Night_OT.Text = "0";
                 }
             }
-            //OTกะดึก 05:00-08:00
+            //OTกะดึก 05:00-07:59
             if (currentTime_05 >= start_0005 && currentTime_05 <= end_0005)
             {
                
@@ -579,7 +579,7 @@ namespace PicklistBOM.Sewing
             TimeSpan end_022 = new TimeSpan(05, 0, 0);   // 05:00
 
             TimeSpan start_0222 = new TimeSpan(5, 0, 0); // 05:00
-            TimeSpan end_0222 = new TimeSpan(8, 0, 0);   // 07:30
+            TimeSpan end_0222 = new TimeSpan(7, 59, 0);   // 07:30
 
             TimeSpan currentTime_02 = now_02.TimeOfDay;
 
@@ -616,7 +616,7 @@ namespace PicklistBOM.Sewing
 
             }
 
-            //กะดึกช่วง OT 05.00-08.00
+            //กะดึกช่วง OT 05.00-7.59
             if (currentTime_02 >= start_0222 && currentTime_02 <= end_0222)
             {
                 // MessageBox.Show("17.30-20.30");
@@ -858,7 +858,7 @@ namespace PicklistBOM.Sewing
 
                 DateTime now556 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
                 TimeSpan start556 = new TimeSpan(0, 0, 0); // 00:00
-                TimeSpan end556 = new TimeSpan(8, 0, 0);   // 07:30
+                TimeSpan end556 = new TimeSpan(7, 59, 0);   // 07:30
                 TimeSpan currentTime556 = now556.TimeOfDay;
                
                 string tmpdate;
