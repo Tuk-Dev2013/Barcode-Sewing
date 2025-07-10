@@ -108,6 +108,7 @@
             this.label39 = new System.Windows.Forms.Label();
             this.lblPOCell = new System.Windows.Forms.Label();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.label63 = new System.Windows.Forms.Label();
             this.label53 = new System.Windows.Forms.Label();
             this.EffDay1 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
@@ -116,6 +117,7 @@
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.lblcellname2 = new System.Windows.Forms.Label();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.label64 = new System.Windows.Forms.Label();
             this.EffDay2 = new System.Windows.Forms.Label();
             this.label46 = new System.Windows.Forms.Label();
             this.label75 = new System.Windows.Forms.Label();
@@ -159,6 +161,7 @@
             this.label84 = new System.Windows.Forms.Label();
             this.lblbatch2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.BlinkTimer_Tick = new System.Windows.Forms.Timer(this.components);
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox4.SuspendLayout();
@@ -650,10 +653,10 @@
             this.lblbatch.BackColor = System.Drawing.Color.Black;
             this.lblbatch.Font = new System.Drawing.Font("Microsoft Sans Serif", 45F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblbatch.ForeColor = System.Drawing.Color.Yellow;
-            this.lblbatch.Location = new System.Drawing.Point(27, 562);
+            this.lblbatch.Location = new System.Drawing.Point(16, 568);
             this.lblbatch.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblbatch.Name = "lblbatch";
-            this.lblbatch.Size = new System.Drawing.Size(243, 76);
+            this.lblbatch.Size = new System.Drawing.Size(243, 83);
             this.lblbatch.TabIndex = 133;
             this.lblbatch.Text = "0";
             this.lblbatch.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -698,12 +701,12 @@
             // 
             // lblPO3
             // 
-            this.lblPO3.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.lblPO3.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblPO3.ForeColor = System.Drawing.Color.Black;
-            this.lblPO3.Location = new System.Drawing.Point(139, 705);
+            this.lblPO3.Location = new System.Drawing.Point(116, 726);
             this.lblPO3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPO3.Name = "lblPO3";
-            this.lblPO3.Size = new System.Drawing.Size(612, 65);
+            this.lblPO3.Size = new System.Drawing.Size(612, 43);
             this.lblPO3.TabIndex = 150;
             this.lblPO3.Text = "-";
             this.lblPO3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -712,7 +715,7 @@
             // 
             this.lblPO5.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblPO5.ForeColor = System.Drawing.Color.Black;
-            this.lblPO5.Location = new System.Drawing.Point(76, 689);
+            this.lblPO5.Location = new System.Drawing.Point(809, 805);
             this.lblPO5.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPO5.Name = "lblPO5";
             this.lblPO5.Size = new System.Drawing.Size(13, 33);
@@ -722,24 +725,24 @@
             // 
             // lblPO2
             // 
-            this.lblPO2.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.lblPO2.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblPO2.ForeColor = System.Drawing.Color.Black;
-            this.lblPO2.Location = new System.Drawing.Point(139, 645);
+            this.lblPO2.Location = new System.Drawing.Point(116, 669);
             this.lblPO2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPO2.Name = "lblPO2";
-            this.lblPO2.Size = new System.Drawing.Size(625, 55);
+            this.lblPO2.Size = new System.Drawing.Size(625, 43);
             this.lblPO2.TabIndex = 152;
             this.lblPO2.Text = "-";
             this.lblPO2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // lblPO4
             // 
-            this.lblPO4.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.lblPO4.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblPO4.ForeColor = System.Drawing.Color.Black;
-            this.lblPO4.Location = new System.Drawing.Point(140, 769);
+            this.lblPO4.Location = new System.Drawing.Point(115, 779);
             this.lblPO4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPO4.Name = "lblPO4";
-            this.lblPO4.Size = new System.Drawing.Size(612, 65);
+            this.lblPO4.Size = new System.Drawing.Size(612, 38);
             this.lblPO4.TabIndex = 153;
             this.lblPO4.Text = "-";
             this.lblPO4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -987,10 +990,10 @@
             this.lblactual.BackColor = System.Drawing.Color.Black;
             this.lblactual.Font = new System.Drawing.Font("Microsoft Sans Serif", 45F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblactual.ForeColor = System.Drawing.Color.Yellow;
-            this.lblactual.Location = new System.Drawing.Point(277, 562);
+            this.lblactual.Location = new System.Drawing.Point(268, 568);
             this.lblactual.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblactual.Name = "lblactual";
-            this.lblactual.Size = new System.Drawing.Size(219, 76);
+            this.lblactual.Size = new System.Drawing.Size(219, 83);
             this.lblactual.TabIndex = 157;
             this.lblactual.Text = "0";
             this.lblactual.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1000,10 +1003,10 @@
             this.lblbalance.BackColor = System.Drawing.Color.Black;
             this.lblbalance.Font = new System.Drawing.Font("Microsoft Sans Serif", 45F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblbalance.ForeColor = System.Drawing.Color.Yellow;
-            this.lblbalance.Location = new System.Drawing.Point(505, 562);
+            this.lblbalance.Location = new System.Drawing.Point(496, 568);
             this.lblbalance.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblbalance.Name = "lblbalance";
-            this.lblbalance.Size = new System.Drawing.Size(260, 76);
+            this.lblbalance.Size = new System.Drawing.Size(260, 83);
             this.lblbalance.TabIndex = 158;
             this.lblbalance.Text = "0";
             this.lblbalance.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1014,10 +1017,10 @@
             this.label9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label9.Font = new System.Drawing.Font("Tahoma", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label9.ForeColor = System.Drawing.Color.Yellow;
-            this.label9.Location = new System.Drawing.Point(25, 490);
+            this.label9.Location = new System.Drawing.Point(15, 500);
             this.label9.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(243, 72);
+            this.label9.Size = new System.Drawing.Size(243, 67);
             this.label9.TabIndex = 159;
             this.label9.Text = "Batch";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1028,10 +1031,10 @@
             this.label31.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label31.Font = new System.Drawing.Font("Tahoma", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label31.ForeColor = System.Drawing.Color.Yellow;
-            this.label31.Location = new System.Drawing.Point(276, 490);
+            this.label31.Location = new System.Drawing.Point(267, 500);
             this.label31.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(219, 72);
+            this.label31.Size = new System.Drawing.Size(219, 67);
             this.label31.TabIndex = 160;
             this.label31.Text = "Actual";
             this.label31.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1042,10 +1045,10 @@
             this.lblstdtime.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblstdtime.Font = new System.Drawing.Font("Tahoma", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblstdtime.ForeColor = System.Drawing.Color.Yellow;
-            this.lblstdtime.Location = new System.Drawing.Point(505, 490);
+            this.lblstdtime.Location = new System.Drawing.Point(494, 500);
             this.lblstdtime.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblstdtime.Name = "lblstdtime";
-            this.lblstdtime.Size = new System.Drawing.Size(261, 72);
+            this.lblstdtime.Size = new System.Drawing.Size(261, 67);
             this.lblstdtime.TabIndex = 161;
             this.lblstdtime.Text = "Balance";
             this.lblstdtime.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1141,10 +1144,10 @@
             // 
             this.label33.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label33.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label33.Location = new System.Drawing.Point(19, 644);
+            this.label33.Location = new System.Drawing.Point(5, 661);
             this.label33.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(127, 55);
+            this.label33.Size = new System.Drawing.Size(101, 54);
             this.label33.TabIndex = 210;
             this.label33.Text = "Q2 :";
             this.label33.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1153,10 +1156,10 @@
             // 
             this.label38.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label38.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label38.Location = new System.Drawing.Point(19, 710);
+            this.label38.Location = new System.Drawing.Point(6, 725);
             this.label38.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(127, 55);
+            this.label38.Size = new System.Drawing.Size(107, 43);
             this.label38.TabIndex = 211;
             this.label38.Text = "Q3 :";
             this.label38.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1165,10 +1168,10 @@
             // 
             this.label39.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label39.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label39.Location = new System.Drawing.Point(19, 774);
+            this.label39.Location = new System.Drawing.Point(5, 779);
             this.label39.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(127, 55);
+            this.label39.Size = new System.Drawing.Size(108, 41);
             this.label39.TabIndex = 212;
             this.label39.Text = "Q4 :";
             this.label39.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1176,13 +1179,13 @@
             // lblPOCell
             // 
             this.lblPOCell.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.lblPOCell.Font = new System.Drawing.Font("Tahoma", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.lblPOCell.Font = new System.Drawing.Font("Tahoma", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblPOCell.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.lblPOCell.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lblPOCell.Location = new System.Drawing.Point(24, 424);
+            this.lblPOCell.Location = new System.Drawing.Point(16, 430);
             this.lblPOCell.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPOCell.Name = "lblPOCell";
-            this.lblPOCell.Size = new System.Drawing.Size(777, 66);
+            this.lblPOCell.Size = new System.Drawing.Size(777, 74);
             this.lblPOCell.TabIndex = 214;
             this.lblPOCell.Text = "Q1 :";
             this.lblPOCell.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1190,6 +1193,7 @@
             // groupBox4
             // 
             this.groupBox4.BackColor = System.Drawing.Color.MediumAquamarine;
+            this.groupBox4.Controls.Add(this.label63);
             this.groupBox4.Controls.Add(this.label53);
             this.groupBox4.Controls.Add(this.EffDay1);
             this.groupBox4.Controls.Add(this.label8);
@@ -1218,13 +1222,26 @@
             this.groupBox4.Controls.Add(this.label9);
             this.groupBox4.Controls.Add(this.lblcell);
             this.groupBox4.Controls.Add(this.lblbatch);
-            this.groupBox4.Location = new System.Drawing.Point(32, 57);
+            this.groupBox4.Location = new System.Drawing.Point(33, 57);
             this.groupBox4.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox4.Size = new System.Drawing.Size(840, 842);
             this.groupBox4.TabIndex = 216;
             this.groupBox4.TabStop = false;
+            // 
+            // label63
+            // 
+            this.label63.AutoSize = true;
+            this.label63.BackColor = System.Drawing.Color.Transparent;
+            this.label63.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label63.ForeColor = System.Drawing.Color.Red;
+            this.label63.Location = new System.Drawing.Point(528, 391);
+            this.label63.Name = "label63";
+            this.label63.Size = new System.Drawing.Size(155, 36);
+            this.label63.TabIndex = 223;
+            this.label63.Text = "LossTime";
+            this.label63.Visible = false;
             // 
             // label53
             // 
@@ -1321,6 +1338,7 @@
             // groupBox5
             // 
             this.groupBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.groupBox5.Controls.Add(this.label64);
             this.groupBox5.Controls.Add(this.EffDay2);
             this.groupBox5.Controls.Add(this.label46);
             this.groupBox5.Controls.Add(this.label75);
@@ -1356,6 +1374,19 @@
             this.groupBox5.Size = new System.Drawing.Size(813, 842);
             this.groupBox5.TabIndex = 217;
             this.groupBox5.TabStop = false;
+            // 
+            // label64
+            // 
+            this.label64.AutoSize = true;
+            this.label64.BackColor = System.Drawing.Color.Transparent;
+            this.label64.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label64.ForeColor = System.Drawing.Color.Red;
+            this.label64.Location = new System.Drawing.Point(564, 391);
+            this.label64.Name = "label64";
+            this.label64.Size = new System.Drawing.Size(155, 36);
+            this.label64.TabIndex = 224;
+            this.label64.Text = "LossTime";
+            this.label64.Visible = false;
             // 
             // EffDay2
             // 
@@ -1447,13 +1478,13 @@
             // lblPOCell2
             // 
             this.lblPOCell2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.lblPOCell2.Font = new System.Drawing.Font("Tahoma", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.lblPOCell2.Font = new System.Drawing.Font("Tahoma", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblPOCell2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.lblPOCell2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lblPOCell2.Location = new System.Drawing.Point(24, 422);
+            this.lblPOCell2.Location = new System.Drawing.Point(19, 430);
             this.lblPOCell2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPOCell2.Name = "lblPOCell2";
-            this.lblPOCell2.Size = new System.Drawing.Size(777, 66);
+            this.lblPOCell2.Size = new System.Drawing.Size(777, 74);
             this.lblPOCell2.TabIndex = 214;
             this.lblPOCell2.Text = "Q1 :";
             this.lblPOCell2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1462,10 +1493,10 @@
             // 
             this.label51.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label51.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label51.Location = new System.Drawing.Point(19, 774);
+            this.label51.Location = new System.Drawing.Point(20, 774);
             this.label51.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(127, 55);
+            this.label51.Size = new System.Drawing.Size(88, 55);
             this.label51.TabIndex = 212;
             this.label51.Text = "Q4 :";
             this.label51.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1705,10 +1736,10 @@
             // 
             this.label68.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label68.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label68.Location = new System.Drawing.Point(19, 710);
+            this.label68.Location = new System.Drawing.Point(19, 719);
             this.label68.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(127, 55);
+            this.label68.Size = new System.Drawing.Size(89, 55);
             this.label68.TabIndex = 211;
             this.label68.Text = "Q3 :";
             this.label68.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1730,7 +1761,7 @@
             // 
             this.label70.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label70.ForeColor = System.Drawing.Color.Black;
-            this.label70.Location = new System.Drawing.Point(76, 689);
+            this.label70.Location = new System.Drawing.Point(9, 813);
             this.label70.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label70.Name = "label70";
             this.label70.Size = new System.Drawing.Size(13, 33);
@@ -1742,22 +1773,22 @@
             // 
             this.label71.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label71.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label71.Location = new System.Drawing.Point(19, 644);
+            this.label71.Location = new System.Drawing.Point(19, 662);
             this.label71.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(127, 55);
+            this.label71.Size = new System.Drawing.Size(96, 55);
             this.label71.TabIndex = 210;
             this.label71.Text = "Q2 :";
             this.label71.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // lblPO44
             // 
-            this.lblPO44.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.lblPO44.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblPO44.ForeColor = System.Drawing.Color.Black;
-            this.lblPO44.Location = new System.Drawing.Point(140, 769);
+            this.lblPO44.Location = new System.Drawing.Point(126, 777);
             this.lblPO44.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPO44.Name = "lblPO44";
-            this.lblPO44.Size = new System.Drawing.Size(612, 65);
+            this.lblPO44.Size = new System.Drawing.Size(612, 49);
             this.lblPO44.TabIndex = 153;
             this.lblPO44.Text = "-";
             this.lblPO44.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1792,22 +1823,22 @@
             this.lblbalance2.BackColor = System.Drawing.Color.Black;
             this.lblbalance2.Font = new System.Drawing.Font("Microsoft Sans Serif", 45F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblbalance2.ForeColor = System.Drawing.Color.Yellow;
-            this.lblbalance2.Location = new System.Drawing.Point(505, 562);
+            this.lblbalance2.Location = new System.Drawing.Point(500, 571);
             this.lblbalance2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblbalance2.Name = "lblbalance2";
-            this.lblbalance2.Size = new System.Drawing.Size(260, 76);
+            this.lblbalance2.Size = new System.Drawing.Size(260, 78);
             this.lblbalance2.TabIndex = 158;
             this.lblbalance2.Text = "0";
             this.lblbalance2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblPO33
             // 
-            this.lblPO33.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.lblPO33.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblPO33.ForeColor = System.Drawing.Color.Black;
-            this.lblPO33.Location = new System.Drawing.Point(139, 705);
+            this.lblPO33.Location = new System.Drawing.Point(125, 722);
             this.lblPO33.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPO33.Name = "lblPO33";
-            this.lblPO33.Size = new System.Drawing.Size(612, 65);
+            this.lblPO33.Size = new System.Drawing.Size(612, 52);
             this.lblPO33.TabIndex = 150;
             this.lblPO33.Text = "-";
             this.lblPO33.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1818,22 +1849,22 @@
             this.label78.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label78.Font = new System.Drawing.Font("Tahoma", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label78.ForeColor = System.Drawing.Color.Yellow;
-            this.label78.Location = new System.Drawing.Point(505, 490);
+            this.label78.Location = new System.Drawing.Point(501, 507);
             this.label78.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(261, 72);
+            this.label78.Size = new System.Drawing.Size(261, 64);
             this.label78.TabIndex = 161;
             this.label78.Text = "Balance";
             this.label78.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblPO22
             // 
-            this.lblPO22.Font = new System.Drawing.Font("Tahoma", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.lblPO22.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblPO22.ForeColor = System.Drawing.Color.Black;
-            this.lblPO22.Location = new System.Drawing.Point(139, 645);
+            this.lblPO22.Location = new System.Drawing.Point(125, 672);
             this.lblPO22.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPO22.Name = "lblPO22";
-            this.lblPO22.Size = new System.Drawing.Size(625, 55);
+            this.lblPO22.Size = new System.Drawing.Size(625, 41);
             this.lblPO22.TabIndex = 152;
             this.lblPO22.Text = "-";
             this.lblPO22.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -1844,10 +1875,10 @@
             this.label81.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label81.Font = new System.Drawing.Font("Tahoma", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label81.ForeColor = System.Drawing.Color.Yellow;
-            this.label81.Location = new System.Drawing.Point(276, 490);
+            this.label81.Location = new System.Drawing.Point(272, 506);
             this.label81.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label81.Name = "label81";
-            this.label81.Size = new System.Drawing.Size(219, 72);
+            this.label81.Size = new System.Drawing.Size(219, 67);
             this.label81.TabIndex = 160;
             this.label81.Text = "Actual";
             this.label81.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1857,10 +1888,10 @@
             this.lblactual2.BackColor = System.Drawing.Color.Black;
             this.lblactual2.Font = new System.Drawing.Font("Microsoft Sans Serif", 45F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblactual2.ForeColor = System.Drawing.Color.Yellow;
-            this.lblactual2.Location = new System.Drawing.Point(277, 562);
+            this.lblactual2.Location = new System.Drawing.Point(270, 573);
             this.lblactual2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblactual2.Name = "lblactual2";
-            this.lblactual2.Size = new System.Drawing.Size(219, 76);
+            this.lblactual2.Size = new System.Drawing.Size(219, 78);
             this.lblactual2.TabIndex = 157;
             this.lblactual2.Text = "0";
             this.lblactual2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1871,10 +1902,10 @@
             this.label83.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label83.Font = new System.Drawing.Font("Tahoma", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label83.ForeColor = System.Drawing.Color.Yellow;
-            this.label83.Location = new System.Drawing.Point(25, 490);
+            this.label83.Location = new System.Drawing.Point(19, 506);
             this.label83.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label83.Name = "label83";
-            this.label83.Size = new System.Drawing.Size(243, 72);
+            this.label83.Size = new System.Drawing.Size(243, 67);
             this.label83.TabIndex = 159;
             this.label83.Text = "Batch";
             this.label83.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1896,10 +1927,10 @@
             this.lblbatch2.BackColor = System.Drawing.Color.Black;
             this.lblbatch2.Font = new System.Drawing.Font("Microsoft Sans Serif", 45F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lblbatch2.ForeColor = System.Drawing.Color.Yellow;
-            this.lblbatch2.Location = new System.Drawing.Point(27, 562);
+            this.lblbatch2.Location = new System.Drawing.Point(19, 573);
             this.lblbatch2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblbatch2.Name = "lblbatch2";
-            this.lblbatch2.Size = new System.Drawing.Size(243, 76);
+            this.lblbatch2.Size = new System.Drawing.Size(243, 78);
             this.lblbatch2.TabIndex = 133;
             this.lblbatch2.Text = "0";
             this.lblbatch2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1913,6 +1944,11 @@
             this.pictureBox1.Size = new System.Drawing.Size(28, 23);
             this.pictureBox1.TabIndex = 219;
             this.pictureBox1.TabStop = false;
+            // 
+            // BlinkTimer_Tick
+            // 
+            this.BlinkTimer_Tick.Interval = 500;
+            this.BlinkTimer_Tick.Tick += new System.EventHandler(this.timer2_Tick);
             // 
             // Showmonitor
             // 
@@ -2090,5 +2126,8 @@
         private System.Windows.Forms.Label label53;
         private System.Windows.Forms.Label EffDay1;
         private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Timer BlinkTimer_Tick;
+        private System.Windows.Forms.Label label63;
+        private System.Windows.Forms.Label label64;
     }
 }

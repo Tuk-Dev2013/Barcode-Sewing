@@ -1019,6 +1019,12 @@
     <Compile Include="Sewing\FrmShowCutSewing.Designer.cs">
       <DependentUpon>FrmShowCutSewing.cs</DependentUpon>
     </Compile>
+    <Compile Include="Sewing\Loss_time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sewing\Loss_time.Designer.cs">
+      <DependentUpon>Loss_time.cs</DependentUpon>
+    </Compile>
     <Compile Include="Sewing\MassgeBox.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -1474,6 +1480,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Sewing\FrmShowCutSewing.resx">
       <DependentUpon>FrmShowCutSewing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sewing\Loss_time.resx">
+      <DependentUpon>Loss_time.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Sewing\MassgeBox.resx">
       <DependentUpon>MassgeBox.cs</DependentUpon>

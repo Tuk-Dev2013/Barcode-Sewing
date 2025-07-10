@@ -27,6 +27,7 @@ namespace PicklistBOM.Sewing
         public FrmSewingBarcode()
         {
             InitializeComponent();
+
         }
 
         private void scToolStripMenuItem_Click(object sender, EventArgs e)
@@ -74,37 +75,44 @@ namespace PicklistBOM.Sewing
                 }
                
                 lbldate.Text = "Date : " +resultdate;
-
+     
     
             ToolStripStatusForm.Text = "Barcode Sewing Cell";
             ToolStripStatusVersionName.Text = "Vession-31/03/2025";
             ToolStripStatusUserName.Text = ConfigurationManager.AppSettings["SHOW_CELL1"]+','+ConfigurationManager.AppSettings["SHOW_CELL2"];
 
             //cell 1
+           
             lblcell1.Text = ConfigurationManager.AppSettings["SHOW_CELL1"];
             if (lblcell1.Text.Trim() == "Sewing 3")
             {
                 lblcell1.Text = "Cell Sewing 9";
+            
             }
             else if (lblcell1.Text.Trim() == "Sewing 1")
             {
                 lblcell1.Text = "Cell Sewing 13";
+                
             }
             else if (lblcell1.Text.Trim() == "Cell Sewing 14")
             {
                 lblcell1.Text = "Cell Sewing 14";
+                
             }
             else if (lblcell1.Text.Trim() == "Sewing 2")
             {
                 lblcell1.Text = "Cell Sewing 15";
+                 
             }
             else if (lblcell1.Text.Trim() == "Cell Sewing 16")
             {
                 lblcell1.Text = "Cell Sewing 16";
+                
             }
             else if (lblcell1.Text.Trim() == "Cell Sewing 17")
             {
                 lblcell1.Text = "Cell Sewing 17";
+                
             }
 
 
@@ -115,30 +123,38 @@ namespace PicklistBOM.Sewing
 
 
             //cell 2
+           
             lblcellnew.Text = ConfigurationManager.AppSettings["SHOW_CELL2"];
             if (lblcellnew.Text.Trim() == "Sewing 3")
             {
                 lblcellnew.Text = "Cell Sewing 9";
+                
             }
             else if (lblcellnew.Text.Trim() == "Sewing 1")
             {
                 lblcellnew.Text = "CELL(R-SOFA)13";
+               
             }
             else if (lblcellnew.Text.Trim() == "Cell Sewing 14")
             {
+
                 lblcellnew.Text = "CELL(R-SOFA)14";
+                
             }
             else if (lblcellnew.Text.Trim() == "Sewing 2")
             {
                 lblcellnew.Text = "CELL(SOFA)15";
+                
             }
             else if (lblcellnew.Text.Trim() == "Cell Sewing 16")
             {
                 lblcellnew.Text = "CELL(SOFA)16";
+                
             }
             else if (lblcellnew.Text.Trim() == "Cell Sewing 17")
             {
                 lblcellnew.Text = "CELL(SOFA)17";
+                
             }
             CallSearchPO1();
             showBarcode2(CGlobal.Sew_DocNo2);
@@ -621,6 +637,113 @@ namespace PicklistBOM.Sewing
 
         #endregion
 
+        #region "InsertLossCell"
+        private void InsertLossCell()
+        {
+            //insert
+            System.Data.SqlClient.SqlCommand Cmd1;
+            System.Data.SqlClient.SqlDataReader rs1;
+            SqlConnection conn11 = new SqlConnection(WebConfig.GetconnectionLeanBarcode());
+            string ProcessStartDate = "";
+           string DeptStart = "";
+           string Status = "";
+            string BarcodeName="";
+          
+            CGlobal.IssueNumber2 = "1";
+            Cmd1 = new System.Data.SqlClient.SqlCommand(" SELECT ISNULL(DeptStart,0) as DeptStart ,ISNULL(ProcessStartDate,0) as ProcessStartDate,ISNULL(Status,0) as Status,ISNULL(BarcodeName,0) as BarcodeName FROM  DocMODtlBarcodeLossWip  Where BarcodeLoss='" + txtbarcode.Text + "' and  Status='on process' and DeptStart='Sewing'", conn11);
+            conn11.Open();
+            rs1 = Cmd1.ExecuteReader();
+         
+                while (rs1.Read())
+                {
+                    // ดึงค่า ProcessStartDate
+                    
+                     DeptStart = rs1["DeptStart"].ToString();
+                     Status = rs1["Status"].ToString();
+                     ProcessStartDate = rs1["ProcessStartDate"].ToString();
+                     BarcodeName = rs1["BarcodeName"].ToString();
+                }
+         
+            conn11.Close();
+
+            if (ProcessStartDate != "0" && DeptStart == "Sewing" && Status == "on process")
+            {
+
+                MessageBox.Show(
+                     "ไม่สามารถเพิ่มข้อมูลซ้ำได้ ยังมี " + BarcodeName + " on process",
+                     "เกิดข้อผิดพลาด",
+                     MessageBoxButtons.OK,
+                     MessageBoxIcon.Error
+                 );
+
+                txtbarcode.Clear();
+                return;     
+            }
+            else
+            {
+                //insert
+                System.Data.SqlClient.SqlCommand Cmd;
+                System.Data.SqlClient.SqlDataReader rs;
+                SqlConnection conn = new SqlConnection(WebConfig.GetconnectionLeanBarcode());
+                string BarcodeLoss_1 = "";
+                string BarcodeName_1 = "";
+                string tmpname = ConfigurationManager.AppSettings["SHOW_CELL1"];
+                CGlobal.IssueNumber2 = "1";
+                Cmd = new System.Data.SqlClient.SqlCommand(" SELECT Lossname,BarcodeLoss FROM  DocMODtlBarcodeLossType  Where BarcodeLoss='" + txtbarcode.Text + "' ", conn);
+                conn.Open();
+                rs = Cmd.ExecuteReader();
+                while (rs.Read())
+                {
+                    BarcodeLoss_1 = rs["BarcodeLoss"].ToString();
+                    BarcodeName_1 = rs["Lossname"].ToString();
+                }
+
+
+
+                var query = new StringBuilder();
+                // query.Append("INSERT INTO Sewing_DtlBarcode(DocNo, DeptCode, Qty, Barcode, DocPONo, Sdate, Linenumber, TypeCell, Itemmodel, Barcodedate, SdateSewing, Remark, UserID, POCell)");
+                query.Append("INSERT INTO DocMODtlBarcodeLossWip(DeptStart, Startdate, ProcessStartWip, BarcodeLoss, BarcodeName,Status,ProcessStartDate)");
+                query.Append(" VALUES (@DeptStart, @Startdate, @ProcessStartWip, @BarcodeLoss, @BarcodeName,@Status,@ProcessStartDate)");
+
+                SqlConnection conn1 = new SqlConnection(WebConfig.GetconnectionLeanBarcode());
+                conn1.Open();
+                using (var db = new DbHelper1())
+                {
+                    try
+                    {
+
+                        db.AddParameter("@DeptStart", "Sewing");
+                        db.AddParameter("@Startdate", DateTime.Now.ToString());
+                        db.AddParameter("@ProcessStartWip", "Sewing");
+                        db.AddParameter("@BarcodeLoss", BarcodeLoss_1);
+                        db.AddParameter("@BarcodeName", BarcodeName_1);
+                        db.AddParameter("@Status", "on process");
+                        db.AddParameter("@ProcessStartDate", DateTime.Now.ToString());
+
+                        // db.AddParameter("@Sdate", resultdate);
+                        db.ExecuteNonQuery(query.ToString(), DatabaseHelper1.DbConnectionState.KeepOpen);
+                        CGlobal.CheckOn = "Yes";
+                        Loss_time Loss_time = new Loss_time();
+                        Loss_time.ShowDialog();
+                    }
+
+                    catch (Exception ex)
+                    {
+
+                        MessageBox.Show("ติดต่อเจ้าหน้าที่" + ex.ToString());
+
+                    }
+                    // n = n + 1;
+                    txtbarcode.Clear();
+                }
+                conn1.Close();
+                conn1.Dispose();
+            }
+
+        }
+
+        #endregion
+
         #region " Show Cell 1"
         private void showBarcode(string docno)
         {
@@ -982,181 +1105,208 @@ namespace PicklistBOM.Sewing
 
         }
         #endregion
+
+    
         private void txtbarcode_KeyPress(object sender, KeyPressEventArgs e)
        {
-            if (e.KeyChar == (char)13)
-            {
-                e.Handled = true;
-                if (this.txtbarcode.Text == "")
-                {
-                  //  MessageBox.Show("กรุณายิง Barcode ก่อนค่ะ ");
-                    return;
-                }
-                
-                  CallBarcode();
-                  String strbarcod = Mid(txtbarcode.Text.Trim(), 0, 14);
-                  CallBarcodePO();
-                  CallMan_OT();
+           string firstFive = "";
+           try
+           {
+                firstFive = txtbarcode.Text.Substring(0, 6);
+           }
 
-                  DateTime now = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
-                  TimeSpan start = new TimeSpan(17, 30, 0); // 17:30
-                  TimeSpan end = new TimeSpan(20, 30, 0);   // 20:30
-                  TimeSpan currentTime = now.TimeOfDay;
-                      //เช็ค OT กะเช้า
-                      if (currentTime >= start && currentTime <= end)
-                      {
-                          //MessageBox.Show("กะเช้า " + CGlobal.Man_NT_OT);
-                          if (CGlobal.Man_NT_OT == "0")
-                          {
-                             
-                              MassgeBox Massge = new MassgeBox();
-                              Massge.ShowDialog();
+           catch (Exception ex)
+           {
+           }
+          
 
-                              FrmSewTarget page = new FrmSewTarget();
-                              page.ShowDialog();
-                              txtbarcode.Clear();
-                              return;
-                          }
-                           //return;
-                      }
+           if (firstFive == "LOSSEW") //ยิงเอง จบเอง  LOSSEW072025001
+           {
+               
+               InsertLossCell();
+           }
+           else if (firstFive == "LOSSWI") //ยิงจบจากหุ้ม LOSSWIP072025007
+           {
 
-                      DateTime now_02 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
-                      TimeSpan start_02 = new TimeSpan(5, 30, 0); // 05:30
-                      TimeSpan end_02 = new TimeSpan(8, 0, 0);   // 08:00
-                      TimeSpan currentTime_02 = now_02.TimeOfDay;
-                      //เช็ค OT กะดึก
+           }
+           else
+           {
+               if (e.KeyChar == (char)13)
+               {
+                   e.Handled = true;
+                   if (this.txtbarcode.Text == "")
+                   {
+                       //  MessageBox.Show("กรุณายิง Barcode ก่อนค่ะ ");
+                       return;
+                   }
 
-                      if (currentTime_02 >= start_02 && currentTime_02 <= end_02)
-                        {
-                            //MessageBox.Show("กะกลางคืน " + CGlobal.Man_Night_OT);
-                            if (CGlobal.Man_Night_OT == "0")
-                            {
-                                MassgeBox Massge = new MassgeBox();
-                                Massge.ShowDialog();
+                   CallBarcode();
+                   String strbarcod = Mid(txtbarcode.Text.Trim(), 0, 14);
+                   CallBarcodePO();
+                   CallMan_OT();
 
-                                FrmSewTarget page = new FrmSewTarget();
-                                page.ShowDialog();
-                                txtbarcode.Clear();
-                                return;
-                            }
-                            //return;
-                          }
-                  
-                ///// Start
-                 
-                //05092018
-                  if (CGlobal.DayweekPO != CGlobal.Sew_DocNo)
-                  {
-                      MessageBox.Show("คุณยิง barcode ไม่ตรงกับ Schedue ที่จัดไว้แล้ว กรณุา key Schedue PO#");
-                      this.txtbarcode.Text = "";
-                      CGlobal.Sew_DocNo = "";
-                      return;
-                  }
+                   DateTime now = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
+                   TimeSpan start = new TimeSpan(17, 30, 0); // 17:30
+                   TimeSpan end = new TimeSpan(20, 30, 0);   // 20:30
+                   TimeSpan currentTime = now.TimeOfDay;
+                   //เช็ค OT กะเช้า
+                   if (currentTime >= start && currentTime <= end)
+                   {
+                       //MessageBox.Show("กะเช้า " + CGlobal.Man_NT_OT);
+                       if (CGlobal.Man_NT_OT == "0")
+                       {
 
-                if  ((CGlobal.Sew_remark == "SEAT")||(CGlobal.Sew_remark == "BODY"))
-                {
-                    MessageBox.Show("คุณยิง barcode ไม่ถูกต้อง ยิงเฉพาะ Barcode Back เท่านั้น กรุณายิงใหม่");
-                    this.txtbarcode.Text = "";
-                    CGlobal.Sew_DocNo = "";
-                    return;
-                }
+                           MassgeBox Massge = new MassgeBox();
+                           Massge.ShowDialog();
 
-                  if (CGlobal.Sew_Barcode == strbarcod)
-                  {
-                      if (Convert.ToDouble(CGlobal.Sew_Qtywip) >= Convert.ToDouble(CGlobal.Sew_QtyBom))
-                      {
-                          MessageBox.Show("คุณยิง barcode Model : "+ CGlobal.Sew_itemModelNew + " จบแล้ว กรุณาตรวจสอบด้วย");
-                          txtbarcode.Text = "";
-                          return;
-                      }
-                      else
-                      {
+                           FrmSewTarget page = new FrmSewTarget();
+                           page.ShowDialog();
+                           txtbarcode.Clear();
+                           return;
+                       }
+                       //return;
+                   }
 
-                          string tempmodel = Left(CGlobal.Sew_itemModel, 3);
-                          string numk = "1";
+                   DateTime now_02 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
+                   TimeSpan start_02 = new TimeSpan(5, 30, 0); // 05:30
+                   TimeSpan end_02 = new TimeSpan(8, 0, 0);   // 08:00
+                   TimeSpan currentTime_02 = now_02.TimeOfDay;
+                   //เช็ค OT กะดึก
 
-                          if ((CGlobal.Sew_remark == "BACK") || (CGlobal.Sew_remark == "SEAT")||(CGlobal.Sew_remark == "BODY"))
-                          {
-                              if ((tempmodel == "63T") || (tempmodel == "64T") || (tempmodel == "82T") || (tempmodel == "T51") || (tempmodel == "T52"))
-                              {
-                                  numk = "2";
-                              }
-                              if ((tempmodel == "61T") || (tempmodel == "T32") || (tempmodel == "P32") || (tempmodel == "64P"))
-                              {
-                                  numk = "2";
-                              }
-                              if ((tempmodel == "80T") || (tempmodel == "T55") || (tempmodel == "T30") || (tempmodel == "P30") || (tempmodel == "T35") || (tempmodel == "P50") || (tempmodel == "P35") || (tempmodel == "T39") || (tempmodel == "P39") || (tempmodel == "T33") || (tempmodel == "P33"))
-                              {
-                                  numk = "3";
-                              }
-                          }
-                          else
-                          {
-                              numk = "1";
-                          }
+                   if (currentTime_02 >= start_02 && currentTime_02 <= end_02)
+                   {
+                       //MessageBox.Show("กะกลางคืน " + CGlobal.Man_Night_OT);
+                       if (CGlobal.Man_Night_OT == "0")
+                       {
+                           MassgeBox Massge = new MassgeBox();
+                           Massge.ShowDialog();
 
+                           FrmSewTarget page = new FrmSewTarget();
+                           page.ShowDialog();
+                           txtbarcode.Clear();
+                           return;
+                       }
+                       //return;
+                   }
 
-                          CallNumberLine1(strbarcod);
-                          InsertSewingBarcode(numk, "BACK"); //เพิ่มเติม
-                          InsertSewingBarcode(numk, "BODY"); //เพิ่มเติม
-                          InsertSewingBarcode(numk, "SEAT"); //เพิ่มเติม
+                   ///// Start
 
-                          UpdateSewing_Schedule(); //เพิ่มเติม DocMODtl
+                   //05092018
+                   if (CGlobal.DayweekPO != CGlobal.Sew_DocNo)
+                   {
+                       MessageBox.Show("คุณยิง barcode ไม่ตรงกับ Schedue ที่จัดไว้แล้ว กรณุา key Schedue PO#");
+                       this.txtbarcode.Text = "";
+                       CGlobal.Sew_DocNo = "";
+                       return;
+                   }
 
+                   if ((CGlobal.Sew_remark == "SEAT") || (CGlobal.Sew_remark == "BODY"))
+                   {
+                       MessageBox.Show("คุณยิง barcode ไม่ถูกต้อง ยิงเฉพาะ Barcode Back เท่านั้น กรุณายิงใหม่");
+                       this.txtbarcode.Text = "";
+                       CGlobal.Sew_DocNo = "";
+                       return;
+                   }
 
-                          UpdateSewing_Schedule(CGlobal.Sew_DocNo, CGlobal.Sew_remark, CGlobal.Sew_itemModel, numk);//เพิ่มเติม
+                   if (CGlobal.Sew_Barcode == strbarcod)
+                   {
+                       if (Convert.ToDouble(CGlobal.Sew_Qtywip) >= Convert.ToDouble(CGlobal.Sew_QtyBom))
+                       {
+                           MessageBox.Show("คุณยิง barcode Model : " + CGlobal.Sew_itemModelNew + " จบแล้ว กรุณาตรวจสอบด้วย");
+                           txtbarcode.Text = "";
+                           return;
+                       }
+                       else
+                       {
 
-                          //update target output
+                           string tempmodel = Left(CGlobal.Sew_itemModel, 3);
+                           string numk = "1";
 
-                          DateTime now0025 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
-                          TimeSpan start0025= new TimeSpan(0, 0, 0); // 00:00
-                          TimeSpan end0025 = new TimeSpan(7, 59, 0);   // 20:30
-                          TimeSpan currentTime0025 = now0025.TimeOfDay;
-
-                          string tmpdate;
-
-                          if (currentTime0025 >= start0025 && currentTime0025 <= end0025)
-                          {
-                              tmpdate = DateTime.Now.AddDays(-1).ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
-                          }
-                          else 
-                          {
-                              tmpdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
-                          }
-
-                          UpdateOutput(tmpdate);
+                           if ((CGlobal.Sew_remark == "BACK") || (CGlobal.Sew_remark == "SEAT") || (CGlobal.Sew_remark == "BODY"))
+                           {
+                               if ((tempmodel == "63T") || (tempmodel == "64T") || (tempmodel == "82T") || (tempmodel == "T51") || (tempmodel == "T52"))
+                               {
+                                   numk = "2";
+                               }
+                               if ((tempmodel == "61T") || (tempmodel == "T32") || (tempmodel == "P32") || (tempmodel == "64P") || (tempmodel == "7HL") || (tempmodel == "7HS"))
+                               {
+                                   numk = "2";
+                               }
+                               if ((tempmodel == "80T") || (tempmodel == "T55") || (tempmodel == "T30") || (tempmodel == "P30") || (tempmodel == "T35") || (tempmodel == "P50")
+                                   || (tempmodel == "P35") || (tempmodel == "T39") || (tempmodel == "P39") || (tempmodel == "T33") || (tempmodel == "P33") || (tempmodel == "3ZP"))
+                               {
+                                   numk = "3";
+                               }
+                           }
+                           else
+                           {
+                               numk = "1";
+                           }
 
 
-                          // เพิ่มเติม  16022017
-                          // showBarcodeview(CGlobal.Sew_DocNo);
-                          CGlobal.CheckOn = "Yes";
+                           CallNumberLine1(strbarcod);
+                           InsertSewingBarcode(numk, "BACK"); //เพิ่มเติม
+                           InsertSewingBarcode(numk, "BODY"); //เพิ่มเติม
+                           InsertSewingBarcode(numk, "SEAT"); //เพิ่มเติม
 
-                          //
-                          string tmpname1 = ConfigurationManager.AppSettings["SHOW_CELL1"];
-                          string tmpname2 = ConfigurationManager.AppSettings["SHOW_CELL2"];
-
-                          if (CGlobal.Sew_CellckName.Trim() == tmpname1.Trim())
-                          {
-                              CallSearchPO();
-                              showBarcode(CGlobal.Sew_DocNo);
-                          }
-                          else if (CGlobal.Sew_CellckName.Trim() == tmpname2.Trim())
-                          {
-                              CallSearchPO1();
-                              showBarcode2(CGlobal.Sew_DocNo);
-                          }
-
-                          CallBarcode();
-                          txtbarcode.Text = "";
-                          txtbarcode.Focus();
-                          CGlobal.Sew_itemModel = "";
-                          CGlobal.Sew_CellckName = "";
-                      }
-                  
-                  }
+                           UpdateSewing_Schedule(); //เพิ่มเติม DocMODtl
 
 
-            }
+                           UpdateSewing_Schedule(CGlobal.Sew_DocNo, CGlobal.Sew_remark, CGlobal.Sew_itemModel, numk);//เพิ่มเติม
+
+                           //update target output
+
+                           DateTime now0025 = DateTime.Now; // หรือใช้ DateTime.Parse("เวลาเฉพาะ")
+                           TimeSpan start0025 = new TimeSpan(0, 0, 0); // 00:00
+                           TimeSpan end0025 = new TimeSpan(7, 59, 0);   // 20:30
+                           TimeSpan currentTime0025 = now0025.TimeOfDay;
+
+                           string tmpdate;
+
+                           if (currentTime0025 >= start0025 && currentTime0025 <= end0025)
+                           {
+                               tmpdate = DateTime.Now.AddDays(-1).ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+                           }
+                           else
+                           {
+                               tmpdate = DateTime.Now.ToString("dd/MM/yyyy", new System.Globalization.CultureInfo("en-US"));
+                           }
+
+                           UpdateOutput(tmpdate);
+
+
+                           // เพิ่มเติม  16022017
+                           // showBarcodeview(CGlobal.Sew_DocNo);
+                           CGlobal.CheckOn = "Yes";
+
+                           //
+                           string tmpname1 = ConfigurationManager.AppSettings["SHOW_CELL1"];
+                           string tmpname2 = ConfigurationManager.AppSettings["SHOW_CELL2"];
+
+                           if (CGlobal.Sew_CellckName.Trim() == tmpname1.Trim())
+                           {
+                               CallSearchPO();
+                               showBarcode(CGlobal.Sew_DocNo);
+                           }
+                           else if (CGlobal.Sew_CellckName.Trim() == tmpname2.Trim())
+                           {
+                               CallSearchPO1();
+                               showBarcode2(CGlobal.Sew_DocNo);
+                           }
+
+                           CallBarcode();
+                           txtbarcode.Text = "";
+                           txtbarcode.Focus();
+                           CGlobal.Sew_itemModel = "";
+                           CGlobal.Sew_CellckName = "";
+                       }
+
+                   }
+
+
+               }
+           }
+           
         }
 
         #region "UpdateShu"
@@ -1422,6 +1572,25 @@ namespace PicklistBOM.Sewing
             CallSearchPO1();
             showBarcode2(CGlobal.Sew_DocNo2);
         }
+
+        private void lossTimeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Loss_time Loss_time = new Loss_time();
+            Loss_time.ShowDialog();
+        }
+        bool radio1Selected = false;
+        private void cell1_Click(object sender, EventArgs e)
+        {
+            RadioButton rb = sender as RadioButton;
+            rb.Checked = !rb.Checked;
+        }
+
+        private void cell2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+      
 
 
 

@@ -24,6 +24,7 @@ namespace PicklistBOM.Sewing
         Boolean Isfind1 = false;
         Boolean Isfind2 = false;
         Boolean Isfind4 = false;
+
         public Showmonitor()
         {
             InitializeComponent();
@@ -804,7 +805,7 @@ namespace PicklistBOM.Sewing
 
             //eff
              CallEffCell();
-
+             LoadBarcodesFromDB();
 
         }
 
@@ -924,6 +925,7 @@ namespace PicklistBOM.Sewing
           //  label33.Text = CGlobal.CheckOn;
             if (CGlobal.CheckOn == "Yes")
             {
+              
                 //cell 1
                 CallWeek();
                 CallsumTotal();
@@ -939,12 +941,141 @@ namespace PicklistBOM.Sewing
                 CallPO2();
 
                 CallEffCell();
+                LoadBarcodesFromDB();
+               
                 CGlobal.CheckOn = "No";
+               // MessageBox.Show("TEST");
             }
           
             
         }
+        private void LoadBarcodesFromDB()
+        {
+            string connectionString = WebConfig.GetconnectionLeanBarcode(); // หรือ ConfigurationManager.ConnectionStrings["ชื่อคอนเนค"].ConnectionString;
+            string query = "SELECT ISNULL(ProcessStartWip,0) as ProcessStartWip, ISNULL(BarcodeName,0) as BarcodeName,ISNULL(ProcessStartDate,0)as ProcessStartDate,ISNULL(ProcessEndWip,0) AS ProcessEndWip,ISNULL(DeptStart,0) as DeptStart,ISNULL(Status,0) as Status  FROM DocMODtlBarcodeLossWip WHERE Status = 'on process' AND DeptStart = 'Sewing' and ProcessStartWip='Sewing'";
+            string BarcodeName = "";
+            string ProcessStartDate = "";
+            string ProcessEndWip = "";
+            string DeptStart = "";
+            string Status = "";
+            string ProcessStartWip = "";
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                using (SqlCommand cmd = new SqlCommand(query, conn))
+                {
+                    conn.Open();
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.HasRows)
+                        {
+                            while (reader.Read())
+                            {
+                                BarcodeName = reader["BarcodeName"].ToString();
+                                ProcessStartDate = reader["ProcessStartDate"].ToString();
+                                ProcessStartWip = reader["ProcessStartWip"].ToString();
+                                ProcessEndWip = reader["ProcessEndWip"].ToString();
+                                DeptStart = reader["DeptStart"].ToString();
+                                Status = reader["Status"].ToString();
 
+                                //MessageBox.Show(DeptStart + Status);
+
+                                if (DeptStart == "Sewing" && Status == "on process" && ProcessStartWip == "Sewing")
+                                {
+
+                                    BlinkTimer_Tick.Enabled = true;
+                                    label63.Visible = true;
+                                    //label64.Visible = true;
+
+                                    // label64.Text = "LossTime Sewing";
+                                    label63.Text = "LossTime Sewing";
+                                    //CGlobal.CheckOn = "Yes";
+                                } else 
+                                {
+
+                                    BlinkTimer_Tick.Enabled = true;
+                                    label63.Visible = false;
+                                }
+                               
+                            }
+                        }
+                        else {
+
+                           
+                            label63.Visible = false;
+                            BlinkTimer_Tick.Enabled = false;
+                        }
+                       
+                        
+                    }
+                }
+
+
+
+            }
+
+
+
+            string connectionString2 = WebConfig.GetconnectionLeanBarcode(); // หรือ ConfigurationManager.ConnectionStrings["ชื่อคอนเนค"].ConnectionString;
+            string query2 = "SELECT ISNULL(ProcessStartWip,0) as ProcessStartWip ,ISNULL(BarcodeName,0) as BarcodeName,ISNULL(ProcessStartDate,0)as ProcessStartDate,ISNULL(ProcessEndWip,0) AS ProcessEndWip,ISNULL(DeptStart,0) as DeptStart,ISNULL(Status,0) as Status  FROM DocMODtlBarcodeLossWip WHERE Status = 'on process' AND DeptStart = 'UPH' and ProcessStartWip='Sewing'";
+            string BarcodeName2 = "";
+            string ProcessStartDate2 = "";
+            string ProcessEndWip2 = "";
+            string DeptStart2 = "";
+            string Status2 = "";
+            string ProcessStartWip2 = "";
+            using (SqlConnection conn2 = new SqlConnection(connectionString))
+            {
+                using (SqlCommand cmd2 = new SqlCommand(query2, conn2))
+                {
+                    conn2.Open();
+                    using (SqlDataReader reader2 = cmd2.ExecuteReader())
+                    {
+                        if (reader2.HasRows)
+                        {
+                            while (reader2.Read())
+                            {
+                                BarcodeName2 = reader2["BarcodeName"].ToString();
+                                ProcessStartDate2 = reader2["ProcessStartDate"].ToString();
+                                ProcessStartWip2 = reader2["ProcessStartWip"].ToString();
+                                ProcessEndWip2 = reader2["ProcessEndWip"].ToString();
+                                DeptStart2 = reader2["DeptStart"].ToString();
+                                Status2 = reader2["Status"].ToString();
+
+                                //MessageBox.Show(DeptStart + Status);
+
+                                if (DeptStart2 == "UPH" && Status2 == "on process" && ProcessStartWip2 == "Sewing")
+                                {
+
+                                    BlinkTimer_Tick.Enabled = true;
+                                    label64.Visible = true;
+                                    label64.Text = "LossTime UPH";
+                                }
+                                else
+                                {
+
+                                    BlinkTimer_Tick.Enabled = true;
+                                    label64.Visible = false;
+                                }
+
+                            }
+                        }
+                        else
+                        {
+
+
+                            label64.Visible = false;
+                            BlinkTimer_Tick.Enabled = false;
+                        }
+
+
+                    }
+                }
+
+
+
+            }
+        }
+   
         public static string Left(string param, int length)
         {
             //we start at 0 since we want to get the characters starting from the
@@ -1851,12 +1982,31 @@ namespace PicklistBOM.Sewing
             CallPO2();
 
             CallEffCell();
-         
+            LoadBarcodesFromDB();
         }
 
         private void label35_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            if (label63.ForeColor == Color.Red)
+            {
+                label63.ForeColor = Color.Orange;
+                label64.ForeColor = Color.Orange;
+
+           
+            
+            }    
+            else
+            {
+                label63.ForeColor = Color.Red;
+                label64.ForeColor = Color.Red;
+        
+            }
+        
         }
     }
 }

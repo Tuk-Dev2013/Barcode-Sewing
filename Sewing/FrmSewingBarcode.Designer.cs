@@ -38,6 +38,7 @@
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.keyOperatorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.lossTimeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.showBarcodeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.StatusMain = new System.Windows.Forms.StatusStrip();
             this.ToolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
@@ -159,6 +160,7 @@
             this.toolStripMenuItem1,
             this.keyOperatorToolStripMenuItem,
             this.toolStripMenuItem2,
+            this.lossTimeToolStripMenuItem,
             this.showBarcodeToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -230,6 +232,15 @@
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
             this.toolStripMenuItem2.Size = new System.Drawing.Size(29, 27);
             this.toolStripMenuItem2.Text = "||";
+            // 
+            // lossTimeToolStripMenuItem
+            // 
+            this.lossTimeToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold);
+            this.lossTimeToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("lossTimeToolStripMenuItem.Image")));
+            this.lossTimeToolStripMenuItem.Name = "lossTimeToolStripMenuItem";
+            this.lossTimeToolStripMenuItem.Size = new System.Drawing.Size(122, 27);
+            this.lossTimeToolStripMenuItem.Text = "Loss time  ||";
+            this.lossTimeToolStripMenuItem.Click += new System.EventHandler(this.lossTimeToolStripMenuItem_Click);
             // 
             // showBarcodeToolStripMenuItem
             // 
@@ -1538,7 +1549,7 @@
             this.lbldate.AutoSize = true;
             this.lbldate.Font = new System.Drawing.Font("Tahoma", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lbldate.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.lbldate.Location = new System.Drawing.Point(784, 43);
+            this.lbldate.Location = new System.Drawing.Point(997, 43);
             this.lbldate.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbldate.Name = "lbldate";
             this.lbldate.Size = new System.Drawing.Size(72, 29);
@@ -1692,5 +1703,6 @@
         private System.Windows.Forms.Label lblcellnew;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label lbldate;
+        private System.Windows.Forms.ToolStripMenuItem lossTimeToolStripMenuItem;
     }
 }
