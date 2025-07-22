@@ -161,7 +161,9 @@
             this.label84 = new System.Windows.Forms.Label();
             this.lblbatch2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.BlinkTimer_Tick = new System.Windows.Forms.Timer(this.components);
+            this.timer2 = new System.Windows.Forms.Timer(this.components);
+            this.label_uph = new System.Windows.Forms.Label();
+            this.label_sew = new System.Windows.Forms.Label();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox4.SuspendLayout();
@@ -568,7 +570,7 @@
             this.TotalTarget11hr.Location = new System.Drawing.Point(203, 306);
             this.TotalTarget11hr.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.TotalTarget11hr.Name = "TotalTarget11hr";
-            this.TotalTarget11hr.Size = new System.Drawing.Size(185, 78);
+            this.TotalTarget11hr.Size = new System.Drawing.Size(185, 72);
             this.TotalTarget11hr.TabIndex = 122;
             this.TotalTarget11hr.Text = "0";
             this.TotalTarget11hr.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -643,7 +645,7 @@
             this.lbloutput.Location = new System.Drawing.Point(398, 307);
             this.lbloutput.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbloutput.Name = "lbloutput";
-            this.lbloutput.Size = new System.Drawing.Size(185, 78);
+            this.lbloutput.Size = new System.Drawing.Size(185, 71);
             this.lbloutput.TabIndex = 128;
             this.lbloutput.Text = "0";
             this.lbloutput.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1222,6 +1224,7 @@
             this.groupBox4.Controls.Add(this.label9);
             this.groupBox4.Controls.Add(this.lblcell);
             this.groupBox4.Controls.Add(this.lblbatch);
+            this.groupBox4.Controls.Add(this.label_sew);
             this.groupBox4.Location = new System.Drawing.Point(33, 57);
             this.groupBox4.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox4.Name = "groupBox4";
@@ -1233,12 +1236,12 @@
             // label63
             // 
             this.label63.AutoSize = true;
-            this.label63.BackColor = System.Drawing.Color.Transparent;
-            this.label63.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label63.BackColor = System.Drawing.Color.Black;
+            this.label63.Font = new System.Drawing.Font("Tahoma", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label63.ForeColor = System.Drawing.Color.Red;
-            this.label63.Location = new System.Drawing.Point(528, 391);
+            this.label63.Location = new System.Drawing.Point(540, 383);
             this.label63.Name = "label63";
-            this.label63.Size = new System.Drawing.Size(155, 36);
+            this.label63.Size = new System.Drawing.Size(152, 35);
             this.label63.TabIndex = 223;
             this.label63.Text = "LossTime";
             this.label63.Visible = false;
@@ -1263,7 +1266,7 @@
             this.EffDay1.Location = new System.Drawing.Point(591, 306);
             this.EffDay1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.EffDay1.Name = "EffDay1";
-            this.EffDay1.Size = new System.Drawing.Size(230, 78);
+            this.EffDay1.Size = new System.Drawing.Size(230, 72);
             this.EffDay1.TabIndex = 220;
             this.EffDay1.Text = "0";
             this.EffDay1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1367,6 +1370,7 @@
             this.groupBox5.Controls.Add(this.label83);
             this.groupBox5.Controls.Add(this.label84);
             this.groupBox5.Controls.Add(this.lblbatch2);
+            this.groupBox5.Controls.Add(this.label_uph);
             this.groupBox5.Location = new System.Drawing.Point(879, 57);
             this.groupBox5.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox5.Name = "groupBox5";
@@ -1378,12 +1382,12 @@
             // label64
             // 
             this.label64.AutoSize = true;
-            this.label64.BackColor = System.Drawing.Color.Transparent;
-            this.label64.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label64.BackColor = System.Drawing.Color.Black;
+            this.label64.Font = new System.Drawing.Font("Tahoma", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label64.ForeColor = System.Drawing.Color.Red;
-            this.label64.Location = new System.Drawing.Point(564, 391);
+            this.label64.Location = new System.Drawing.Point(524, 386);
             this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(155, 36);
+            this.label64.Size = new System.Drawing.Size(152, 35);
             this.label64.TabIndex = 224;
             this.label64.Text = "LossTime";
             this.label64.Visible = false;
@@ -1393,7 +1397,7 @@
             this.EffDay2.BackColor = System.Drawing.Color.Black;
             this.EffDay2.Font = new System.Drawing.Font("Microsoft Sans Serif", 38F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.EffDay2.ForeColor = System.Drawing.Color.Yellow;
-            this.EffDay2.Location = new System.Drawing.Point(580, 307);
+            this.EffDay2.Location = new System.Drawing.Point(580, 302);
             this.EffDay2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.EffDay2.Name = "EffDay2";
             this.EffDay2.Size = new System.Drawing.Size(221, 78);
@@ -1433,7 +1437,7 @@
             this.lbloutput2.Location = new System.Drawing.Point(387, 306);
             this.lbloutput2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbloutput2.Name = "lbloutput2";
-            this.lbloutput2.Size = new System.Drawing.Size(185, 78);
+            this.lbloutput2.Size = new System.Drawing.Size(185, 74);
             this.lbloutput2.TabIndex = 217;
             this.lbloutput2.Text = "0";
             this.lbloutput2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -1470,7 +1474,7 @@
             this.TotalTarget11hr2.Location = new System.Drawing.Point(194, 307);
             this.TotalTarget11hr2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.TotalTarget11hr2.Name = "TotalTarget11hr2";
-            this.TotalTarget11hr2.Size = new System.Drawing.Size(185, 78);
+            this.TotalTarget11hr2.Size = new System.Drawing.Size(185, 71);
             this.TotalTarget11hr2.TabIndex = 122;
             this.TotalTarget11hr2.Text = "0";
             this.TotalTarget11hr2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1798,7 +1802,7 @@
             this.label73.AutoSize = true;
             this.label73.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label73.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label73.Location = new System.Drawing.Point(4, 354);
+            this.label73.Location = new System.Drawing.Point(4, 358);
             this.label73.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label73.Name = "label73";
             this.label73.Size = new System.Drawing.Size(141, 24);
@@ -1810,7 +1814,7 @@
             this.TotalTarget3hr2.BackColor = System.Drawing.Color.Black;
             this.TotalTarget3hr2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.TotalTarget3hr2.ForeColor = System.Drawing.Color.Yellow;
-            this.TotalTarget3hr2.Location = new System.Drawing.Point(16, 380);
+            this.TotalTarget3hr2.Location = new System.Drawing.Point(16, 386);
             this.TotalTarget3hr2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.TotalTarget3hr2.Name = "TotalTarget3hr2";
             this.TotalTarget3hr2.Size = new System.Drawing.Size(131, 39);
@@ -1945,10 +1949,36 @@
             this.pictureBox1.TabIndex = 219;
             this.pictureBox1.TabStop = false;
             // 
-            // BlinkTimer_Tick
+            // timer2
             // 
-            this.BlinkTimer_Tick.Interval = 500;
-            this.BlinkTimer_Tick.Tick += new System.EventHandler(this.timer2_Tick);
+            this.timer2.Interval = 500;
+            this.timer2.Tick += new System.EventHandler(this.timer2_Tick_1);
+            // 
+            // label_uph
+            // 
+            this.label_uph.BackColor = System.Drawing.Color.Black;
+            this.label_uph.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label_uph.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label_uph.ForeColor = System.Drawing.Color.Yellow;
+            this.label_uph.Location = new System.Drawing.Point(511, 384);
+            this.label_uph.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label_uph.Name = "label_uph";
+            this.label_uph.Size = new System.Drawing.Size(291, 42);
+            this.label_uph.TabIndex = 209;
+            this.label_uph.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label_sew
+            // 
+            this.label_sew.BackColor = System.Drawing.Color.Black;
+            this.label_sew.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label_sew.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label_sew.ForeColor = System.Drawing.Color.Yellow;
+            this.label_sew.Location = new System.Drawing.Point(530, 381);
+            this.label_sew.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label_sew.Name = "label_sew";
+            this.label_sew.Size = new System.Drawing.Size(291, 42);
+            this.label_sew.TabIndex = 225;
+            this.label_sew.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // Showmonitor
             // 
@@ -1969,7 +1999,6 @@
             this.Controls.Add(this.label42);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.lbldate);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Showmonitor";
@@ -2126,8 +2155,10 @@
         private System.Windows.Forms.Label label53;
         private System.Windows.Forms.Label EffDay1;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Timer BlinkTimer_Tick;
         private System.Windows.Forms.Label label63;
         private System.Windows.Forms.Label label64;
+        private System.Windows.Forms.Timer timer2;
+        private System.Windows.Forms.Label label_uph;
+        private System.Windows.Forms.Label label_sew;
     }
 }

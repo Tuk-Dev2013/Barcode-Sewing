@@ -982,8 +982,9 @@ namespace PicklistBOM.Sewing
                                 if (DeptStart == "Sewing" && Status == "on process" && ProcessStartWip == "Sewing")
                                 {
 
-                                    BlinkTimer_Tick.Enabled = true;
+                                    timer2.Enabled = true;
                                     label63.Visible = true;
+                                    label_sew.Visible = true;
                                     //label64.Visible = true;
 
                                     // label64.Text = "LossTime Sewing";
@@ -992,17 +993,19 @@ namespace PicklistBOM.Sewing
                                 } else 
                                 {
 
-                                    BlinkTimer_Tick.Enabled = true;
+                                    timer2.Enabled = true;
                                     label63.Visible = false;
+                                    label_sew.Visible = false;
                                 }
                                
                             }
                         }
                         else {
 
-                           
+
                             label63.Visible = false;
-                            BlinkTimer_Tick.Enabled = false;
+                            label_sew.Visible = false;
+                            timer2.Enabled = true;
                         }
                        
                         
@@ -1046,15 +1049,17 @@ namespace PicklistBOM.Sewing
                                 if (DeptStart2 == "UPH" && Status2 == "on process" && ProcessStartWip2 == "Sewing")
                                 {
 
-                                    BlinkTimer_Tick.Enabled = true;
+                                    timer2.Enabled = true;
                                     label64.Visible = true;
+                                    label_uph.Visible = true;
                                     label64.Text = "LossTime UPH";
                                 }
                                 else
                                 {
 
-                                    BlinkTimer_Tick.Enabled = true;
+                                    timer2.Enabled = true;
                                     label64.Visible = false;
+                                    label_uph.Visible = false;
                                 }
 
                             }
@@ -1064,7 +1069,8 @@ namespace PicklistBOM.Sewing
 
 
                             label64.Visible = false;
-                            BlinkTimer_Tick.Enabled = false;
+                            label_uph.Visible = false;
+                            timer2.Enabled = true;
                         }
 
 
@@ -1990,23 +1996,24 @@ namespace PicklistBOM.Sewing
 
         }
 
-        private void timer2_Tick(object sender, EventArgs e)
+  
+
+        private void timer2_Tick_1(object sender, EventArgs e)
         {
             if (label63.ForeColor == Color.Red)
             {
                 label63.ForeColor = Color.Orange;
                 label64.ForeColor = Color.Orange;
 
-           
-            
-            }    
+
+
+            }
             else
             {
                 label63.ForeColor = Color.Red;
                 label64.ForeColor = Color.Red;
-        
+
             }
-        
         }
     }
 }

@@ -395,10 +395,15 @@ namespace PicklistBOM.Sewing
                                     txttotal.Text = qtytotal.ToString("#,##0.00");
                         
                                 }
+                                else if (Convert.ToDouble(txtperson.Text.Trim()) == 3)
+                                {
+                                    qtytotal = (2.0 * 8);
+                                    txttotal.Text = qtytotal.ToString("#,##0.00");
 
+                                }
                                 else
                                 {
-                                    MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 คน เท่านั้นในการคำนวนยอด Target!!!");
+                                    MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4  หรือ 3 คน เท่านั้นในการคำนวนยอด Target!!!");
                                     return;
                                 }
 
@@ -413,6 +418,11 @@ namespace PicklistBOM.Sewing
                                     qtytotal = (2.4 * 3);
                                     txtperhead.Text = qtytotal.ToString("#,##0.00");
                                 }
+                                else if (Convert.ToDouble(txtMan_NT_OT.Text.Trim()) == 3)
+                                {
+                                    qtytotal = (2.0 * 3);
+                                    txtperhead.Text = qtytotal.ToString("#,##0.00");
+                                }
                                 else if (Convert.ToDouble(txtMan_NT_OT.Text.Trim()) == 0)
                                 {
                                    
@@ -420,7 +430,7 @@ namespace PicklistBOM.Sewing
                                 }
                                 else
                                 {
-                                    MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 คน เท่านั้นในการคำนวนยอด Target!!!");
+                                    MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 หรือ 3 คน เท่านั้นในการคำนวนยอด Target!!!");
                                     return;
                                 }
 
@@ -439,6 +449,12 @@ namespace PicklistBOM.Sewing
                                     txttotalNight.Text = qtytotal3.ToString("#,##0.00");
 
                                 }
+                                else if (Convert.ToDouble(txtMan_Night.Text.Trim()) == 3)
+                                {
+                                    qtytotal3 = (2.0 * 8);
+                                    txttotalNight.Text = qtytotal3.ToString("#,##0.00");
+
+                                }
                                 else if (Convert.ToDouble(txtMan_Night.Text.Trim()) == 0)
                                 {
 
@@ -447,7 +463,7 @@ namespace PicklistBOM.Sewing
                                 }
                                 else
                                 {
-                                    MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 คน เท่านั้นในการคำนวนยอด Target!!!");
+                                    MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 หรือ 3 คน เท่านั้นในการคำนวนยอด Target!!!");
                                     return;
                                 }
 
@@ -461,6 +477,11 @@ namespace PicklistBOM.Sewing
                                 else if (Convert.ToDouble(txtMan_Night_OT.Text.Trim()) == 4)
                                 {
                                     qtytotal4 = (2.4 * 3);
+                                    txtperheadNight.Text = qtytotal4.ToString("#,##0.00");
+                                }
+                                else if (Convert.ToDouble(txtMan_Night_OT.Text.Trim()) == 3)
+                                {
+                                    qtytotal4 = (2.0 * 3);
                                     txtperheadNight.Text = qtytotal4.ToString("#,##0.00");
                                 }
                                 else if (Convert.ToDouble(txtMan_Night_OT.Text.Trim()) == 0)
@@ -680,10 +701,17 @@ namespace PicklistBOM.Sewing
                         qtytotal = (2.4 * 3);
                         //txtperhead2.Text = qtytotal.ToString("#,##0.00");
                     }
+                    else if (Convert.ToDouble(txtperson2.Text.Trim()) == 3)
+                    {
+                        qtytotal = (2.0 * 8);
+                        txttotal2.Text = qtytotal.ToString("#,##0.00");
+                        qtytotal = (2.0 * 3);
+                        //txtperhead2.Text = qtytotal.ToString("#,##0.00");
+                    }
 
                     else
                     {
-                        MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 คน เท่านั้นในการคำนวนยอด Target!!!");
+                        MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 หรือ 3 คน เท่านั้นในการคำนวนยอด Target!!!");
                         return;
                     }
 
@@ -703,6 +731,12 @@ namespace PicklistBOM.Sewing
                         txtperhead2.Text = qtytotal4.ToString("#,##0.00");
   
                     }
+                    else if (Convert.ToDouble(txtMan_NT_OT2.Text.Trim()) == 3)
+                    {
+                        qtytotal4 = (2.0 * 3);
+                        txtperhead2.Text = qtytotal4.ToString("#,##0.00");
+
+                    }
                     else if (Convert.ToDouble(txtMan_NT_OT2.Text.Trim()) == 0)
                     {
                     
@@ -711,7 +745,7 @@ namespace PicklistBOM.Sewing
                     }
                     else
                     {
-                        MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 คน เท่านั้นในการคำนวนยอด Target!!!");
+                        MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 หรือ 3 คน เท่านั้นในการคำนวนยอด Target!!!");
                         return;
                     }
 
@@ -731,6 +765,13 @@ namespace PicklistBOM.Sewing
                         //qtytotal2 = (2.4 * 3);
                         //txtperhead2.Text = qtytotal.ToString("#,##0.00");
                     }
+                    else if (Convert.ToDouble(txtMan_Night2.Text.Trim()) == 3)
+                    {
+                        qtytotal2 = (2.0 * 8);
+                        txttotalNight2.Text = qtytotal2.ToString("#,##0.00");
+                        //qtytotal2 = (2.4 * 3);
+                        //txtperhead2.Text = qtytotal.ToString("#,##0.00");
+                    }
                     else if (Convert.ToDouble(txtMan_Night2.Text.Trim()) == 0)
                     {
                       
@@ -739,7 +780,7 @@ namespace PicklistBOM.Sewing
                     }
                     else
                     {
-                        MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 คน เท่านั้นในการคำนวนยอด Target!!!");
+                        MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 หรือ 3 คน เท่านั้นในการคำนวนยอด Target!!!");
                         return;
                     }
 
@@ -759,6 +800,13 @@ namespace PicklistBOM.Sewing
                        
                         //txtperhead2.Text = qtytotal.ToString("#,##0.00");
                     }
+                    else if (Convert.ToDouble(txtMan_Night_OT2.Text.Trim()) == 3)
+                    {
+                        qtytotal3 = (2.0 * 3);
+                        txtperheadNight2.Text = qtytotal3.ToString("#,##0.00");
+
+                        //txtperhead2.Text = qtytotal.ToString("#,##0.00");
+                    }
                     else if (Convert.ToDouble(txtMan_Night_OT2.Text.Trim()) == 0)
                     {
                        
@@ -767,7 +815,7 @@ namespace PicklistBOM.Sewing
                     }
                     else
                     {
-                        MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 คน เท่านั้นในการคำนวนยอด Target!!!");
+                        MessageBox.Show("กรุุณาป้อนข้อมูลจำนวน 5 คน หรือ 4 หรือ 3 คน เท่านั้นในการคำนวนยอด Target!!!");
                         return;
                     }
 

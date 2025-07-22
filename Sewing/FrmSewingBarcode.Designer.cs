@@ -405,6 +405,7 @@
             this.txtbarcode.Name = "txtbarcode";
             this.txtbarcode.Size = new System.Drawing.Size(547, 29);
             this.txtbarcode.TabIndex = 2;
+            this.txtbarcode.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtbarcode_KeyDown);
             this.txtbarcode.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtbarcode_KeyPress);
             // 
             // gridshow

@@ -198,18 +198,18 @@
   </data>
   <data name="lossTimeToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        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
+        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
 </value>
   </data>
   <data name="showBarcodeToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

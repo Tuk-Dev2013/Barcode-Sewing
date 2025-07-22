@@ -125,7 +125,7 @@ namespace PicklistBOM.Sewing
                             cmd.Parameters.AddWithValue("@ID", id);
                             cmd.Parameters.AddWithValue("@DeptEnd", "Sewing");
                             cmd.Parameters.AddWithValue("@Status", "complete");
-                            cmd.Parameters.AddWithValue("@Endtime", DateTime.Now.ToString());
+                            cmd.Parameters.AddWithValue("@Endtime", DateTime.Now);
                             cmd.Parameters.AddWithValue("@UserName_Wip", ConfigurationManager.AppSettings["SHOW_CELL1"]);
                             cmd.ExecuteNonQuery();
                         }

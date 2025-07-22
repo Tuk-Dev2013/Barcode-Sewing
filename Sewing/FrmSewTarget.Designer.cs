@@ -133,7 +133,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label7.Location = new System.Drawing.Point(242, 90);
+            this.label7.Location = new System.Drawing.Point(239, 99);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(57, 29);
@@ -145,7 +145,7 @@
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label14.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label14.Location = new System.Drawing.Point(392, 91);
+            this.label14.Location = new System.Drawing.Point(392, 99);
             this.label14.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(75, 29);
@@ -157,7 +157,7 @@
             this.label17.AutoSize = true;
             this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label17.Location = new System.Drawing.Point(315, 90);
+            this.label17.Location = new System.Drawing.Point(309, 99);
             this.label17.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(50, 29);
@@ -167,7 +167,7 @@
             // txtMan_Night_OT2
             // 
             this.txtMan_Night_OT2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.txtMan_Night_OT2.Location = new System.Drawing.Point(468, 124);
+            this.txtMan_Night_OT2.Location = new System.Drawing.Point(468, 133);
             this.txtMan_Night_OT2.Margin = new System.Windows.Forms.Padding(4);
             this.txtMan_Night_OT2.Name = "txtMan_Night_OT2";
             this.txtMan_Night_OT2.Size = new System.Drawing.Size(79, 30);
@@ -180,7 +180,7 @@
             this.label18.AutoSize = true;
             this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label18.Location = new System.Drawing.Point(242, 52);
+            this.label18.Location = new System.Drawing.Point(242, 60);
             this.label18.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(117, 29);
@@ -192,7 +192,7 @@
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label15.Location = new System.Drawing.Point(477, 91);
+            this.label15.Location = new System.Drawing.Point(477, 99);
             this.label15.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(50, 29);
@@ -202,7 +202,7 @@
             // txtMan_Night2
             // 
             this.txtMan_Night2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.txtMan_Night2.Location = new System.Drawing.Point(393, 124);
+            this.txtMan_Night2.Location = new System.Drawing.Point(393, 133);
             this.txtMan_Night2.Margin = new System.Windows.Forms.Padding(4);
             this.txtMan_Night2.Name = "txtMan_Night2";
             this.txtMan_Night2.Size = new System.Drawing.Size(71, 30);
@@ -215,7 +215,7 @@
             this.txttotalNight2.BackColor = System.Drawing.SystemColors.Info;
             this.txttotalNight2.Enabled = false;
             this.txttotalNight2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.txttotalNight2.Location = new System.Drawing.Point(393, 165);
+            this.txttotalNight2.Location = new System.Drawing.Point(393, 174);
             this.txttotalNight2.Margin = new System.Windows.Forms.Padding(4);
             this.txttotalNight2.Name = "txttotalNight2";
             this.txttotalNight2.Size = new System.Drawing.Size(71, 30);
@@ -228,7 +228,7 @@
             this.txtperheadNight2.BackColor = System.Drawing.SystemColors.Info;
             this.txtperheadNight2.Enabled = false;
             this.txtperheadNight2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.txtperheadNight2.Location = new System.Drawing.Point(468, 165);
+            this.txtperheadNight2.Location = new System.Drawing.Point(468, 174);
             this.txtperheadNight2.Margin = new System.Windows.Forms.Padding(4);
             this.txtperheadNight2.Name = "txtperheadNight2";
             this.txtperheadNight2.Size = new System.Drawing.Size(79, 30);
@@ -240,7 +240,7 @@
             // 
             this.txttxttargetNight2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.txttxttargetNight2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.txttxttargetNight2.Location = new System.Drawing.Point(393, 208);
+            this.txttxttargetNight2.Location = new System.Drawing.Point(393, 212);
             this.txttxttargetNight2.Margin = new System.Windows.Forms.Padding(4);
             this.txttxttargetNight2.Name = "txttxttargetNight2";
             this.txttxttargetNight2.ReadOnly = true;
@@ -253,7 +253,7 @@
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label16.Location = new System.Drawing.Point(407, 52);
+            this.label16.Location = new System.Drawing.Point(409, 60);
             this.label16.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(118, 29);
@@ -263,7 +263,7 @@
             // groupBox5
             // 
             this.groupBox5.BackColor = System.Drawing.Color.Black;
-            this.groupBox5.Location = new System.Drawing.Point(382, 75);
+            this.groupBox5.Location = new System.Drawing.Point(382, 65);
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.Size = new System.Drawing.Size(8, 231);
             this.groupBox5.TabIndex = 126;
@@ -273,7 +273,7 @@
             // txtMan_NT_OT2
             // 
             this.txtMan_NT_OT2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.txtMan_NT_OT2.Location = new System.Drawing.Point(304, 123);
+            this.txtMan_NT_OT2.Location = new System.Drawing.Point(304, 132);
             this.txtMan_NT_OT2.Margin = new System.Windows.Forms.Padding(4);
             this.txtMan_NT_OT2.Name = "txtMan_NT_OT2";
             this.txtMan_NT_OT2.Size = new System.Drawing.Size(71, 30);
@@ -286,7 +286,7 @@
             this.txtperhead2.BackColor = System.Drawing.SystemColors.Info;
             this.txtperhead2.Enabled = false;
             this.txtperhead2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.txtperhead2.Location = new System.Drawing.Point(304, 163);
+            this.txtperhead2.Location = new System.Drawing.Point(304, 174);
             this.txtperhead2.Margin = new System.Windows.Forms.Padding(4);
             this.txtperhead2.Name = "txtperhead2";
             this.txtperhead2.Size = new System.Drawing.Size(71, 30);
@@ -297,7 +297,7 @@
             // txtperson2
             // 
             this.txtperson2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.txtperson2.Location = new System.Drawing.Point(225, 124);
+            this.txtperson2.Location = new System.Drawing.Point(225, 133);
             this.txtperson2.Margin = new System.Windows.Forms.Padding(4);
             this.txtperson2.Name = "txtperson2";
             this.txtperson2.Size = new System.Drawing.Size(71, 30);
@@ -309,7 +309,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.label8.Location = new System.Drawing.Point(63, 167);
+            this.label8.Location = new System.Drawing.Point(63, 174);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(146, 25);
@@ -332,7 +332,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.label6.Location = new System.Drawing.Point(18, 216);
+            this.label6.Location = new System.Drawing.Point(18, 220);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(191, 25);
@@ -344,7 +344,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(60, 126);
+            this.label5.Location = new System.Drawing.Point(63, 133);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(149, 25);
@@ -356,7 +356,7 @@
             this.txttotal2.BackColor = System.Drawing.SystemColors.Info;
             this.txttotal2.Enabled = false;
             this.txttotal2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.txttotal2.Location = new System.Drawing.Point(225, 164);
+            this.txttotal2.Location = new System.Drawing.Point(225, 174);
             this.txttotal2.Margin = new System.Windows.Forms.Padding(4);
             this.txttotal2.Name = "txttotal2";
             this.txttotal2.Size = new System.Drawing.Size(71, 30);
@@ -368,7 +368,7 @@
             // 
             this.txttarget2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.txttarget2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.txttarget2.Location = new System.Drawing.Point(225, 207);
+            this.txttarget2.Location = new System.Drawing.Point(225, 212);
             this.txttarget2.Margin = new System.Windows.Forms.Padding(4);
             this.txttarget2.Name = "txttarget2";
             this.txttarget2.ReadOnly = true;
